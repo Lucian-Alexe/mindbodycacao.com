@@ -126,8 +126,9 @@ h3 {
 }
 
 strong {
-  background-color: var(--color-light-blue);
-  font-weight: 800;
+  font-family: var(--font-family);
+  font-style: italic;
+  font-weight: 100;
 }
 
 
@@ -221,6 +222,10 @@ strong {
   background-color: var(--color-secondary);
 }
 
+.hero-area p {
+  font-size: var(--h5-size);
+}
+
 .hero-area-link {
   text-decoration: none;
   background-color: rgba(255,255,255,0.4);
@@ -250,7 +255,7 @@ strong {
   font-size:var(--body-size);
   font-family: var(--font-copy);
   font-weight: 600;
-  margin:1em;
+  margin:1em 1em 1em -0.5em;
   cursor: pointer;
   padding:1em 1.5em;
   border-radius: 10em;
@@ -462,6 +467,19 @@ footer {
 
 .blog-content h2 {
   margin-top:2em;
+  margin-bottom: 1em;
+  border-bottom: 5px dotted var(--color-light-blue);
+
+}
+
+.blog-content li {
+  font-family: var(--font-copy);
+}
+
+.blog-content img {
+  max-width: 100%;
+  margin:1em 0 2em;
+  border-radius: 2em;
 }
 
 .intro-blog {
@@ -489,4 +507,7 @@ footer {
   max-height: 180px;
   margin:0 auto;
 }
+
+.blue-box {
+  padding:2em;
 }

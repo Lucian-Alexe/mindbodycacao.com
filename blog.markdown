@@ -13,7 +13,7 @@ permalink: /notes/
       {% for post in site.posts %}
         <div class="blue-box">
           <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-          <p>{{ post.excerpt }}</p>
+          <p class="mb-0"><em>{{ post.date | date: "%B %d, %Y" }}</em></p>
         </div>
       {% endfor %}
     </div>

@@ -25,10 +25,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mindbodycacao.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Lucian-Alexe
 
-# Build settings
+# Build settings - jekyll-compress-images
 
 plugins:
   - jekyll-feed
+  
 
 defaults:
   - scope:

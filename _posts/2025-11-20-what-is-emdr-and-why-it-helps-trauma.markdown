@@ -5,6 +5,8 @@ date:   2025-11-20 14:01:09 +0100
 categories: therapy mind
 ---
 
+![What is Eye Movement Desensitization and Reprocessing (EMDR)](/assets/img/emdr-blog.jpg "What is Eye Movement Desensitization and Reprocessing" )
+
 <div class="intro-blog">When someone first asks me about EMDR, I often start with a simple image: imagine a drawer in your mind where a painful memory is still stuck, half-closed, spilling out into your everyday life. EMDR helps the mind finally tuck that memory away so it no longer overwhelms you. In my 15+ years of working with clients across the United States and Mexico, I’ve seen EMDR gently but profoundly shift how people experience their past.</div>
 
 ## What EMDR Actually Is

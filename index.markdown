@@ -9,21 +9,21 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
     <div class="inside-container">
     <h1 class="text-center mt-3 mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>
     <p class="text-center mt-4">With over 15 years of experience in both the US and Mexico, I provide compassionate, trauma-informed therapy tailored to your unique needs. I specialize in supporting individuals through anxiety, depression, trauma, and life transitions, offering a safe and welcoming space to process emotions and find balance.</p>
-    <p class="text-center mb-5">Available remote and in-person, in Spanish or English.</p>
-      <div class="text-center my-5"><a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session</a></div>
+    <p class="text-center mb-5">Available <strong>remote</strong> and <strong>in-person</strong> (Mexico City, CDMX - Condesa), in Spanish or English.</p>
+      <div class="text-center my-5">
+      <div class="hero-person-image"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City">
+      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session</a>
+      </div>
     </div>
-  
   </div>
-  <div class="hero-img">
-    
-
+  </div>
+  <div class="hero-img mb-5">
   <img src="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png"
      srcset="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png 1000w,
              /assets/img/psycotherapy-expats-body-therapy-cacao-therapy-small.png 1200w"
      sizes="(min-width: 1024px) 1000px, 1200px"
      alt="The different therapies offered by Mind, Body, Cacao psychotherapy, body therapy, spiritual therapy"
      class="img-fluid" />
-
   </div>
 </section>
 
