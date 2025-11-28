@@ -6,10 +6,10 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
 ---
 
 
-<section class="hero-area pt-5">
+<section class="hero-area pt-2 pt-md-5">
   <div class="container">
     <div class="inside-container">
-    <h1 class="text-center mt-3 mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>
+    <h1 class="text-center mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>
     <p class="text-center mt-4">With over 15 years of experience in both the US and Mexico, I provide compassionate, trauma-informed therapy tailored to your unique needs. I specialize in supporting individuals through anxiety, depression, trauma, and life transitions, offering a safe and welcoming space to process emotions and find balance.</p>
     <p class="text-center mb-5">Available <strong>remote</strong> and <strong>in-person</strong> (Mexico City, CDMX - Condesa), in Spanish or English.</p>
       <div class="text-center my-5">

@@ -2,6 +2,7 @@
 layout: page
 title: Expats Living in Mexico
 permalink: /therapy-for-expats-in-mexico
+description: Therapy services for expats living in Mexico. With 15+ years of experience, I specialize in helping expats manage stress, adjust to life abroad, and improve mental health. Bilingual therapist (English/Spanish) offering EMDR, Brainspotting, and holistic support.
 ---
 
 <section>
@@ -38,11 +39,11 @@ permalink: /therapy-for-expats-in-mexico
                             </li>
                             <li>
                                 <h3>Body Movement & Somatic Work</h3>
-                                <p>Relocation often keeps the body in “alert mode.” We use grounding movement, breathwork, and yoga-based practices to help the body settle so the mind can, too..</p>
+                                <p>Relocation often keeps the body in “alert mode.” We use grounding movement, breathwork, and yoga-based practices to help the body settle so the mind can, too.</p>
                             </li>
                             <li>
                                 <h3>Optional Cacao Session</h3>
-                                <p>A grounding ritual to support clarity, belonging, and emotional stability during major transitions..</p>
+                                <p>A grounding ritual to support clarity, belonging, and emotional stability during major transitions.</p>
                             </li>  
                         </ul>
                     </div>

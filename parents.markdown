@@ -2,6 +2,7 @@
 layout: page
 title: Parents
 permalink: /parents-therapy
+description: Guidance and support for parents in navigating the challenges of raising children. With over 15 years of experience and a Master’s in Psychology, I provide tailored therapy in English and Spanish to help you strengthen family relationships and overcome parenting challenges.
 ---
 
 <section>
