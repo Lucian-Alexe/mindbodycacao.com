@@ -4,21 +4,11 @@ title: Psychotherapy & Mental Health Services
 permalink: /psychotherapy-mental-health-services/
 ---
 
-<section class="hero-area pb-5">
-  <div class="container">
-    <div class="hero-logo">
-    </div>
-    <div class="inside-container" >
-        <h1 class="text-center mt-5 mb-2 mb-md-5 ">Psychotherapy & Mental Health Services</h1>
-    </div >
-  
-  </div>
-</section>
-
 <section>
     <div class="container">
             <div class="inside-container">
                 <img src="/assets/img/psycotherapy-services.png" class="img-fluid">
+                <h1 class="text-center mt-3 mb-5">Psychotherapy & Mental Health Services</h1> 
                 <p class="page-intro">Psychotherapy offers a supportive, evidence-based space to understand your emotions, process difficult experiences, and move toward lasting wellbeing. Whether you’re dealing with anxiety, trauma, depression, relationship challenges, or major life transitions, therapy can help you gain clarity, resilience, and a deeper sense of self.</p>
                 <p>Sessions are available online or in-person in Mexico City, in English or Spanish.</p>
                 <p>Psychotherapy can help anyone who feels overwhelmed, confused, or weighed down by life. Many people seek support when anxiety begins to interfere with daily routines, when emotions feel too heavy to carry alone, or when they notice they are repeating patterns that no longer serve them. Others come to therapy during moments of change, such as moving to a new city, ending a relationship, starting something new, or trying to understand who they are becoming.</p>

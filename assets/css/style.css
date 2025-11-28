@@ -125,6 +125,15 @@ h3 {
   line-height: var(--h3-line-height);
 }
 
+strong {
+  background-color: var(--color-light-blue);
+  font-weight: 800;
+}
+
+
+.container {
+  --bs-gutter-x: 2.5rem;
+}
 
 .navbar {
   font-family: var(--font-family);
@@ -169,21 +178,61 @@ h3 {
   text-align: center;
 }
 
+.button-menu {
+  margin:0 auto;
+}
 
+.navbar-toggler {
+  color:black;
+  border:none;
+  font-style: italic;
+  font-size:var(--h5-size);
+  margin:0.5em auto;
+  
+  background-color: rgba(255,255,255,0.3);
+  padding:0.5em 0.8em;
+  transition: all 0.3s ease;
+}
+
+.navbar-toggler :not(.collapsed ){
+  
+}
+
+.navbar-toggler:hover {
+  background-color: white;
+  transition: all 0.3s ease;
+}
+
+.logo-area {
+  background: var(--color-secondary);
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+}
+
+.logo img{
+  max-height: 300px;
+  margin:0 auto;
+}
 
 .hero-area {
   background-color: var(--color-secondary);
 }
 
-.hero-logo {
-  display: flex;
-  justify-content: center;
+.hero-area-link {
+  text-decoration: none;
+  background-color: rgba(255,255,255,0.4);
+  transition: all 0.3s ease;
 }
 
-.hero-logo img{
-  max-height: 350px;
-  margin:0 auto;
+.hero-area-link:hover {
+  text-decoration: none;
+  background-color: rgba(255,255,255,0.9);
+  transition: all 0.3s ease;
 }
+
 
 .hero-img {
   display: flex;
@@ -400,6 +449,11 @@ footer {
   line-height: var(--body-xl-line-height);
 }
 
+.contact-list a {
+  text-decoration: none;
+
+}
+
 .contact-list a:hover {
   text-decoration: none;
   color:black;
@@ -431,8 +485,8 @@ footer {
     font-size: var(--h4-size);
   }
 
-  .hero-logo img{
-  max-height: 280px;
+  .logo img{
+  max-height: 180px;
   margin:0 auto;
 }
 }

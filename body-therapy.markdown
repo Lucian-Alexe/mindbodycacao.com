@@ -4,23 +4,11 @@ title: Movement & Embodiment Therapy
 permalink: /body-therapy/
 ---
 
-<section class="hero-area pb-5">
-  <div class="container">
-    <div class="hero-logo">
-      <img src="/assets/img//psychotherapist-mexico-tania-chapper.svg" class="img-fluid mt-5">
-    </div>
-    <div class="inside-container" >
-        <h1 class="text-center mb-5">Movement & Embodiment Therapy</h1>
-    </div >
-  
-  </div>
-</section>
-
-
 <section>
     <div class="container">
             <div class="inside-container">
                 <img src="/assets/img/body-therapy.png" class="img-fluid">
+                <h1 class="text-center mt-3 mb-5">Body Therapy (Yoga, Dance, Movement)</h1> 
                 <p class="page-intro">Body-based therapy supports emotional healing by reconnecting you with the wisdom and signals of your physical self. This work is especially helpful when talking alone doesn’t quite touch the deeper layers of stress, pain, or emotion. Because the body holds memory, tension, and unprocessed experiences, movement can bring clarity and release in a way that words sometimes cannot.</p>
                 <p>My background as a yoga instructor and trained dancer shapes the way I guide this process. Sessions may include gentle yoga therapy to help regulate the nervous system, movement therapy to explore emotions through the body, or embodiment practices that build a stronger sense of inner safety and presence. Dance therapy invites creative expression and helps clients reconnect with vitality, while elements of somatic experiencing support healing from stress or trauma by helping the body complete patterns it never had space to finish.</p>
                 <p>People often come to body therapy when they feel disconnected from themselves, when emotions feel “stuck,” or when stress shows up physically as tension, fatigue, tightness, or restlessness. This approach is especially supportive for clients who want to feel more grounded, more in tune with their emotions, and more at home in their bodies. It is available online or in-person in Mexico City.</p>

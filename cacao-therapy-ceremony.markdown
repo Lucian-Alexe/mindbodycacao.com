@@ -4,23 +4,12 @@ title: Cacao Therapy
 permalink: /cacao-therapy-ceremony/
 ---
 
-<section class="hero-area pb-5">
-  <div class="container">
-    <div class="hero-logo">
-      <img src="/assets/img/psychotherapist-mexico-tania-chapper.svg" class="img-fluid mt-5">
-    </div>
-    <div class="inside-container" >
-        <h1 class="text-center mb-5">Cacao Therapy</h1>
-    </div >
-  
-  </div>
-</section>
-
 
 <section>
     <div class="container">
             <div class="inside-container">
                 <img src="/assets/img/cacao-therapy.png" class="img-fluid">
+                <h1 class="text-center mt-3 mb-5">Cacao Therapy</h1> 
                 <p class="page-intro">Cacao offers a warm, heart-centered way to support emotional healing and mindfulness. It’s a gentle plant medicine that helps people slow down, open up, and connect more deeply with themselves. Sessions can be held on their own or woven into psychotherapy or body-based work for a richer, more grounded experience.</p>
                 <div class="thin-box-no-click p-5 my-5">
                         <h2 class="">Who Can Benefit From Cacao</h2>
