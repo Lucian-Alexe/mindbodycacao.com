@@ -26,6 +26,9 @@ permalink: /parents-therapy
                     <div class="page-services-explanation">
                         <ul>
                             <li>
+                                <h3>Traditional Psychotherapy</h3> <p> Traditional psychotherapy gives parents room to reflect on the emotional realities of raising children. We explore stress, guilt, identity shifts, and relationship dynamics with empathy and clarity. This approach supports healthier communication, more self-compassion, and a greater sense of grounding in everyday life. </p>
+                            </li>
+                            <li>
                                 <h3>EMDR</h3>
                                 <p>Helps parents work through old wounds that get activated by parenting moments—like reacting strongly during a child’s emotional outburst.</p>
                             </li>

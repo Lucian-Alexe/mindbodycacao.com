@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Psychotherapy & Mental Health Services
+description: Holistic psychotherapy combining EMDR, BrainSpotting and traditional therapy.
 permalink: /psychotherapy-mental-health-services/
 ---
 

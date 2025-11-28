@@ -26,6 +26,9 @@ permalink: /adolescents-therapy
                     <div class="page-services-explanation">
                         <ul>
                             <li>
+                                <h3>Traditional Psychotherapy</h3> <p> Talk therapy offers teens a safe, confidential space to express what they’re feeling without judgment. We explore emotions, friendships, identity questions, and school-related stress in a way that feels approachable. This approach helps adolescents make sense of their inner world and develop healthier coping skills. </p>
+                            </li>
+                            <li>
                                 <h3>EMDR</h3>
                                 <p>Helps teens process painful experiences—like bullying, conflicts at home, or big life changes.</p>
                             </li>

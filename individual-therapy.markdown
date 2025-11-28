@@ -25,6 +25,9 @@ permalink: /individual-therapy
                 <p>Below is an overview of the therapeutic approaches used in sessions. Your treatment plan is always personalized, these modalities can be used individually or combined depending on your needs - including with the body movement therapy or other therapies.</p>
                     <div class="page-services-explanation">
                         <ul>
+                             <li>
+                                <h3>Traditional Psychotherapy</h3> <p> Traditional talk therapy gives you space to explore your thoughts, emotions, and patterns with clarity and compassion. Together, we look at what’s causing distress, what feels overwhelming, and where you want to grow. This approach helps you understand yourself more deeply and build coping skills that support long-term emotional wellbeing. </p>
+                            </li>
                             <li>
                                 <h3>EMDR</h3>
                                 <p>Helps reprocess painful or intrusive memories—for example, revisiting a moment that still causes anxiety and transforming its emotional impact.</p>

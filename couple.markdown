@@ -26,6 +26,9 @@ permalink: /couples-therapy
                     <div class="page-services-explanation">
                         <ul>
                             <li>
+                                <h3>Traditional Psychotherapy</h3> <p> Couples-focused talk therapy helps both partners feel heard, understood, and supported. We explore communication patterns, unmet needs, and recurring conflicts, always with the goal of strengthening connection. This approach helps partners slow down, listen differently, and rebuild emotional trust. </p>
+                            </li>
+                            <li>
                                 <h3>EMDR</h3>
                                 <p>Helps each partner process personal triggers that show up in the relationship—for example, reacting strongly during conflict due to past relational pain.</p>
                             </li>

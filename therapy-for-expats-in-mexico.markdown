@@ -26,8 +26,7 @@ permalink: /therapy-for-expats-in-mexico
                     <div class="page-services-explanation">
                         <ul>
                             <li>
-                                <h3>Traditional Psychotherapy</h3>
-                                <p>Helps process emotional overwhelm from sudden relocation, major life changes, or identity confusion.</p>
+                                <h3>Traditional Psychotherapy</h3> <p> Talk therapy provides a supportive space to process the emotional complexity of building a life abroad. We explore identity changes, cultural adjustment, loneliness, and the stress of transition. This approach helps you make sense of your experience while strengthening resilience and belonging. </p>
                             </li>
                             <li>
                                 <h3>EMDR</h3>

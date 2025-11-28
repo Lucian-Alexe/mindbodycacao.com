@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
+description: Integrative therapy in Mexico with psychotherapy, body therapy, EMDR, Brainspotting, and cacao rituals. English and Spanish sessions.
+
 ---
 
 
@@ -76,7 +78,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
       <h2 class="text-center">Who benefits</h2>
       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a href="#" class="thin-box-link">
+          <a  href="/individual-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -90,7 +92,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
           </a>
         </div> 
         <div class="col-md-6 my-3">
-          <a href="#" class="thin-box-link">
+          <a href="/couples-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -106,7 +108,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
       </div>
       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a href="#" class="thin-box-link">
+          <a href="/adolescents-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -120,7 +122,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
           </a>
         </div> 
         <div class="col-md-6 my-3">
-          <a href="#" class="thin-box-link">
+          <a href="/parents-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -136,7 +138,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
       </div>
        <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a href="#" class="thin-box-link">
+          <a href="/therapy-for-expats-in-mexico" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -150,7 +152,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
           </a>
         </div> 
         <div class="col-md-6 my-3">
-          <a href="#" class="thin-box-link">
+          <a href="/mexican-expats-living-abroad" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
