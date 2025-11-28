@@ -7,7 +7,7 @@ permalink: /individual-therapy
 <section>
     <div class="container">
             <div class="inside-container">
-                <img src="/assets/img/psycotherapy-services.png" class="img-fluid">
+                <img src="/assets/img/individual.jpg" class="img-fluid img-services-clients">
                 <h1 class="text-center mt-3 mb-5">Individual Therapy</h1> 
                 <p class="page-intro">Life can become overwhelming when emotions, memories, or responsibilities start to feel heavier than usual. Individual therapy gives you a compassionate space to understand yourself more deeply and relieve emotional pressure. Together, we work gently and intentionally toward healing and clarity.</p>
                 <div class="thin-box-no-click p-5 my-5">

@@ -489,6 +489,12 @@ footer {
   font-style: italic;
 }
 
+.img-services-clients {
+  border-radius: 2em;
+  max-width: 100%;
+  margin:3em 0;
+}
+
 
 @media only screen and (max-width: 960px) {
   h1 {
@@ -510,4 +516,10 @@ footer {
 
 .blue-box {
   padding:2em;
+}
+
+.hero-person-image, .hero-button {
+  display: block;
+}
+
 }
