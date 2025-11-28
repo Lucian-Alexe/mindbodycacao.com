@@ -7,10 +7,9 @@ permalink: /psychotherapy-mental-health-services/
 <section class="hero-area pb-5">
   <div class="container">
     <div class="hero-logo">
-      <img src="/assets/img//psychotherapist-mexico-tania-chapper.svg" class="img-fluid mt-5">
     </div>
     <div class="inside-container" >
-        <h1 class="text-center mb-5">Psychotherapy & Mental Health Services</h1>
+        <h1 class="text-center mt-5 mb-2 mb-md-5 ">Psychotherapy & Mental Health Services</h1>
     </div >
   
   </div>

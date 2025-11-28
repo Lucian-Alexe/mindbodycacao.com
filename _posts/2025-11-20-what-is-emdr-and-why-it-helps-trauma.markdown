@@ -5,12 +5,11 @@ date:   2025-11-20 14:01:09 +0100
 categories: jekyll update
 ---
 
-When someone first asks me about EMDR, I often start with a simple image: imagine a drawer in your mind where a painful memory is still stuck, half-closed, spilling out into your everyday life. EMDR helps the mind finally tuck that memory away so it no longer overwhelms you. In my 15+ years of working with clients across the United States and Mexico, I’ve seen EMDR gently but profoundly shift how people experience their past.
+<div class="intro-blog">When someone first asks me about EMDR, I often start with a simple image: imagine a drawer in your mind where a painful memory is still stuck, half-closed, spilling out into your everyday life. EMDR helps the mind finally tuck that memory away so it no longer overwhelms you. In my 15+ years of working with clients across the United States and Mexico, I’ve seen EMDR gently but profoundly shift how people experience their past.</div>
 
 ## What EMDR Actually Is
 
-EMDR stands for *Eye Movement Desensitization and Reprocessing*.  
-It’s an evidence-based therapy that helps the brain reprocess distressing memories so they stop feeling so raw or threatening.
+EMDR stands for *Eye Movement Desensitization and Reprocessing*. It’s an evidence-based therapy that helps the brain reprocess distressing memories so they stop feeling so raw or threatening.
 
 Instead of talking through every detail of a painful experience, EMDR uses bilateral stimulation—usually guided eye movements, gentle tapping, or alternating sounds—while you focus on a memory or emotion. This activates the brain’s natural ability to move toward healing, clarity, and emotional balance.
 

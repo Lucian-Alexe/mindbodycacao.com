@@ -10,7 +10,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
       <img src="/assets/img//psychotherapist-mexico-tania-chapper.svg" class="img-fluid mt-5">
     </div>
     <div class="inside-container">
-    <p class="intro-text text-center mt-5 mb-5">Where psychotherapy, body therapy and spiritual practices work together to nurture lasting healing.</p>
+    <h1 class=" text-center mt-5 mb-5">Where <a href="/psychotherapy-mental-health-services">psychotherapy</a>, body therapy and spiritual practices work together to nurture lasting healing.</h1>
     <p class="text-center mt-4">With over 15 years of experience in both the US and Mexico, I provide compassionate, trauma-informed therapy tailored to your unique needs. I specialize in supporting individuals through anxiety, depression, trauma, and life transitions, offering a safe and welcoming space to process emotions and find balance.</p>
     <p class="text-center mb-5">Available remote and in-person, in Spanish or English.</p>
       <div class="text-center my-5"><a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session</a></div>
@@ -18,7 +18,15 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
   
   </div>
   <div class="hero-img">
-    <img src="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png" class="img-fluid">
+    
+
+  <img src="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png"
+     srcset="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy-small.png 800w,
+             /assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png 1200w"
+     sizes="(max-width: 1024px) 800px, 1200px"
+     alt="The different therapies offered by Mind, Body, Cacao psychotherapy, body therapy, spiritual therapy"
+     class="img-fluid" />
+
   </div>
 </section>
 
@@ -69,7 +77,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
   <div class="container">
     <div class="inside-container">
       <h2 class="text-center">Who benefits</h2>
-      <div class="row my-5 align-items-stretch">
+      <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-1">
           <a href="#" class="thin-box-link">
           <div class="thin-box p-5">
@@ -99,7 +107,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
           </a>
         </div>
       </div>
-      <div class="row my-5 align-items-stretch">
+      <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-1">
           <a href="#" class="thin-box-link">
           <div class="thin-box p-5">
@@ -129,7 +137,7 @@ title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
           </a>
         </div>
       </div>
-       <div class="row my-5 align-items-stretch">
+       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-1">
           <a href="#" class="thin-box-link">
           <div class="thin-box p-5">
