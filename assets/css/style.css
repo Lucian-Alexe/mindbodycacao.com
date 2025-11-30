@@ -332,6 +332,36 @@ strong {
   white-space: nowrap;
 }
 
+.blue-box-slider h3{ 
+  font-family: var(--font-copy);
+  font-size:var(--h6-size);
+  line-height: var(--body-sm-line-height);
+}
+
+
+.blue-box-slider .card-body {
+  padding:1em;
+}
+
+.card-body-price {
+  font-size: 16px;
+  color:rgba(0,0,0,0.4)
+}
+
+.card-text {
+  font-size: 16px;
+}
+
+.card-book-button {
+
+  color:var(--color-accent);
+  border-radius: 2em;
+
+}
+
+.card-book-button:hover {
+ color:black;
+}
 
 .services-image {
   display: flex;
@@ -510,7 +540,7 @@ footer {
   }
 
   .logo img{
-  max-height: 180px;
+  max-height: 140px;
   margin:0 auto;
 }
 
@@ -520,6 +550,14 @@ footer {
 
 .hero-person-image, .hero-button {
   display: block;
+}
+
+.hero-area p {
+  font-size: var(--body-size);
+}
+
+.hero-button  {
+  margin:1em;
 }
 
 }

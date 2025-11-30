@@ -9,12 +9,15 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
 <section class="hero-area pt-2 pt-md-5">
   <div class="container">
     <div class="inside-container">
-    <h1 class="text-center mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>
-    <p class="text-center mt-4">With over 15 years of experience in both the US and Mexico, I provide compassionate, trauma-informed therapy tailored to your unique needs. I specialize in supporting individuals through anxiety, depression, trauma, and life transitions, offering a safe and welcoming space to process emotions and find balance.</p>
-    <p class="text-center mb-5">Available <strong>remote</strong> and <strong>in-person</strong> (Mexico City, CDMX - Condesa), in Spanish or English.</p>
+    <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
+    <!--<h1 class="text-center mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>-->
+    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, and <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true.
+Fifteen years of therapeutic experience… with room for laughter, breath, curiosity, and the fullness of being human.</p>
+    <p class="text-center mb-5">Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English.</p>
       <div class="text-center my-5">
       <div class="hero-person-image"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session</a>
+      
       </div>
     </div>
   </div>
@@ -42,6 +45,61 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
         <div class="tags text-center mt-5">
           <span class="blue-box-tag">Traditional Psychotherapy</span> <span class="blue-box-tag">EMDR</span> <span class="blue-box-tag">BrainSpotting</span> <span class="blue-box-tag">Person-centered therapy</span> <span class="blue-box-tag">Trauma-informed therapy</span> <span class="blue-box-tag">Cross-cultural adjustment therapy </span> <span class="blue-box-tag">Grief & Loss support</span>
         </div>
+        <!--Slider start-->
+        <div class="blue-box-slider my-5">
+          <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
+              <ul class="slider-container">
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/therapy.jpg" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flex">
+                                  <h3 class="">Traditional Psychotherapy</h3>
+                              </div>
+                              <p class="card-text">A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It’s talk-based, flexible, and can be combined with other therapeutic approaches when helpful.</p>
+                               <p class="card-body-price">Session at $900/h</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/emdr.jpg" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flexraditional Psy">
+                                  <h3 class="">EMDR</h3>
+                              </div>
+                              <p class="card-text">Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”</p>
+                               <p class="card-body-price">Session at $900/h</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/brainspotting.jpg" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flex">
+                                  <h3 class="">Brainspotting</h3>
+                              </div>
+                              <p class="card-text">A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual “spot” that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.</p>
+                               <p class="card-body-price">Session at $900/h</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+              </ul>
+              <button type="button" class="slider-nav" aria-label="Go left"></button>
+              <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
+          </div>
+        </div>
+        <!--Slider ends-->
         <div class="text-center my-5"><a class="box-button text-center" href="/psychotherapy-mental-health-services">Find out more</a></div>
       </div>
     <!--BlueBox end -->
