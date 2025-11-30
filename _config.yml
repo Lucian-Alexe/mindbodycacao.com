@@ -30,7 +30,7 @@ github_username:  Lucian-Alexe
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-compress-images
+#  - jekyll-compress-images
 
 defaults:
   - scope:

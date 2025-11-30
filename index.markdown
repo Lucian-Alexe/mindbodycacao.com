@@ -12,12 +12,12 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
     <!--<h1 class="text-center mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>-->
     <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, and <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true.
-Fifteen years of therapeutic experience… with room for laughter, breath, curiosity, and the fullness of being human.</p>
+Fifteen years of therapeutic experience… with room for laughter, curiosity, and understanding.</p>
     <p class="text-center mb-5">Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English.</p>
       <div class="text-center my-5">
       <div class="hero-person-image"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City">
-      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session</a>
-      
+      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session <i class="bi bi-arrow-right-circle"></i></a>
+      <p class="text-center mt-5 small-hero"><a class="hero-area-link" href="/why-my-patients-love-working-with-me">Why you'll love working with me</a></p>
       </div>
     </div>
   </div>
@@ -59,7 +59,7 @@ Fifteen years of therapeutic experience… with room for laughter, breath, curio
                                   <h3 class="">Traditional Psychotherapy</h3>
                               </div>
                               <p class="card-text">A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It’s talk-based, flexible, and can be combined with other therapeutic approaches when helpful.</p>
-                               <p class="card-body-price">Session at $900/h</p>
+                               <p class="card-body-price">Session at MX$900/h</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -74,7 +74,7 @@ Fifteen years of therapeutic experience… with room for laughter, breath, curio
                                   <h3 class="">EMDR</h3>
                               </div>
                               <p class="card-text">Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”</p>
-                               <p class="card-body-price">Session at $900/h</p>
+                               <p class="card-body-price">Session at MX$900/h</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -89,7 +89,7 @@ Fifteen years of therapeutic experience… with room for laughter, breath, curio
                                   <h3 class="">Brainspotting</h3>
                               </div>
                               <p class="card-text">A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual “spot” that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.</p>
-                               <p class="card-body-price">Session at $900/h</p>
+                               <p class="card-body-price">Session at MX$900/h</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -113,6 +113,76 @@ Fifteen years of therapeutic experience… with room for laughter, breath, curio
         <div class="tags text-center mt-5">
           <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Movement therapy</span> <span class="blue-box-tag">Embodiment therapy</span> <span class="blue-box-tag">Somatic Experiencing</span> <span class="blue-box-tag">Dance therapy</span> 
         </div>
+        <!--Slider start-->
+        <div class="blue-box-slider my-5">
+          <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
+              <ul class="slider-container">
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/yoga.jpg" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flex">
+                                  <h3 class="">Yoga Therapy</h3>
+                              </div>
+                              <p class="card-text">A 60–90 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It can stand alone or be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.</p>
+                               <p class="card-body-price">MX$800-MX$1400/session</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/movement.jpg" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flexraditional Psy">
+                                  <h3 class="">Movement Therapy</h3>
+                              </div>
+                              <p class="card-text">A 60–90 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It can be paired with talk therapy or trauma work for deeper integration.</p>
+                               <p class="card-body-price">MX$800-MX$1400/session</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/dance.jpg" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flex">
+                                  <h3 class="">Dance Therapy</h3>
+                              </div>
+                              <p class="card-text">A 60-minute session using expressive movement and rhythm to explore feelings, reduce stress, and shift energy that’s hard to access through words alone. No dance experience needed, just curiosity and a willingness to move.</p>
+                               <p class="card-body-price">Session at MX$900/h</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/somatic.jpg" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flex">
+                                  <h3 class="">Somatic Experiencing</h3>
+                              </div>
+                              <p class="card-text">A 60-minute body-based session focused on nervous system regulation and releasing stored stress or trauma. We work gently with sensations, impulses, and grounding tools (in person or online), and it can easily be combined with other therapeutic approaches.</p>
+                               <p class="card-body-price">Session at MX$900/h</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+              </ul>
+              <button type="button" class="slider-nav" aria-label="Go left"></button>
+              <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
+          </div>
+        </div>
+        <!--Slider ends-->
         <div class="text-center my-5"><a class="box-button text-center" href="/body-therapy">Find out more</a></div>
       </div>
     <!--BlueBox end -->
@@ -123,6 +193,61 @@ Fifteen years of therapeutic experience… with room for laughter, breath, curio
         <h3 class="text-center blue-box-h3">Cacao Therapy</h3>
         <p class="text-center mt-5"> In addition to traditional psychotherapy, the Cacao Therapy is an optional, complementary practice to enhance emotional release and self-reflection. Cacao, a sacred plant medicine, has been used for centuries in healing rituals to open the heart, facilitate deep emotional processing, and promote spiritual insight. Through cacao ceremonies, you will experience a powerful journey of self-discovery, where you can release emotional blockages, connect with your inner peace, and cultivate clarity.</p>
         <p class="text-center mt-5">Cacao rituals are especially effective for individuals navigating grief, emotional trauma, or spiritual awakening. The heart-opening qualities of cacao help you process difficult emotions, gain new insights, and enhance your connection to yourself and the world around you. If you're seeking a more spiritual, integrative approach to healing, cacao therapy may be the perfect addition to your journey. </p>
+        <!--Slider start-->
+        <div class="blue-box-slider my-5">
+          <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
+              <ul class="slider-container">
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/couple.png" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flex">
+                                  <h3 class="">Couple Cacao Ritual</h3>
+                              </div>
+                              <p class="card-text">A 60–120 minute cacao ceremony for two: ideal for healing, deepening connection, or preparing for the next chapter (like pre-marriage). Can be held at your place or another location you choose.</p>
+                               <p class="card-body-price">MX$1500/session</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/individual.png" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flexraditional Psy">
+                                  <h3 class="">Individual Cacao Ritual</h3>
+                              </div>
+                              <p class="card-text">A 60-minute private cacao session designed for personal reflection, emotional release, or spiritual reconnection — a gentle pause just for you.</p>
+                               <p class="card-body-price">MX$1000/session</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+                  <li>
+                      <div class="card border-0">
+                          <div class="ratio ratio-16x9">
+                              <img src="../assets/img/group.png" class="card-img-top" loading="lazy" alt="...">
+                          </div>
+                          <div class="card-body p-0 p-4">
+                              <div class="d-flex">
+                                  <h3 class="">Group Cacao Ritual</h3>
+                              </div>
+                              <p class="card-text">A 120-minute shared cacao ceremony for groups of 3 to 20 people — perfect for intimate celebrations, anniversaries, or special gatherings. Warm space, collective intention, and a shared journey.</p>
+                               <p class="card-body-price">Starting at MX$1800/h</p>
+                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
+                          </div>
+                      </div>
+                  </li>
+              </ul>
+              <button type="button" class="slider-nav" aria-label="Go left"></button>
+              <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
+          </div>
+        </div>
+        <!--Slider ends-->
         <div class="text-center my-5"><a class="box-button text-center" href="cacao-therapy-ceremony/">Find out more</a></div>
       </div>
     <!--BlueBox end -->

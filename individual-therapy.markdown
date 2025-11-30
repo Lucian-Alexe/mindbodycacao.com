@@ -2,6 +2,7 @@
 layout: page
 title: Individual Therapy
 permalink: /individual-therapy
+description: Personalized individual therapy in Mexico for emotional healing, personal growth, and mental wellness. Certified therapist with 15+ years of experience in EMDR, Brainspotting, and holistic approaches. Bilingual therapy in English and Spanish.
 ---
 
 <section>

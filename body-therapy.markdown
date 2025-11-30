@@ -2,7 +2,7 @@
 layout: page
 title: Movement & Embodiment Therapy
 permalink: /body-therapy/
-description: Integrative body-based therapy blending somatic awareness, movement, and breathwork to release stress, regulate emotions, and reconnect with your body.
+description: Transform your mind and body with holistic therapy. As a certified yoga instructor, I combine movement, dance, and mindfulness techniques to promote healing, stress reduction, and emotional balance. Offering bilingual therapy (English/Spanish) in Mexico with a focus on body-based therapies.
 ---
 
 <section>

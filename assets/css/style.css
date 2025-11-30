@@ -333,8 +333,8 @@ strong {
 }
 
 .blue-box-slider h3{ 
-  font-family: var(--font-copy);
-  font-size:var(--h6-size);
+  font-family: var(--font-family);
+  font-size:var(--body-size);
   line-height: var(--body-sm-line-height);
 }
 
@@ -349,11 +349,11 @@ strong {
 }
 
 .card-text {
-  font-size: 16px;
+  font-size: 14px;
 }
 
 .card-book-button {
-
+  font-size: var(--body-sm-size);
   color:var(--color-accent);
   border-radius: 2em;
 
@@ -558,6 +558,10 @@ footer {
 
 .hero-button  {
   margin:1em;
+}
+
+.card-body-price {
+  font-size:14px;
 }
 
 }
