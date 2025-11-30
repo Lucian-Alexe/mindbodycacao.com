@@ -43,11 +43,6 @@ It’s especially helpful for people who feel stuck or who sense their body stil
 
 EMDR is not about reliving trauma, and it isn’t done abruptly. We first prepare your nervous system, build internal resources, and make sure you feel grounded. The pace is gentle, collaborative, and always centered on your sense of safety.
 
-## A Quote I Come Back To
-
-> “At this point, there is enough research for me to believe that both are true. So, if I had to do it over again, I’d simply call it ‘Reprocessing Therapy.’”  
-> — *Francine Shapiro, founder of EMDR*
-
 ## My Experience Using EMDR
 
 Because my background includes psychotherapy, yoga, somatic work, and dance, I pay close attention to how emotions live in the body. When I use EMDR, I often weave in grounding, breathwork, and gentle body awareness. This helps clients feel safe, steady, and supported as they reprocess painful moments.
