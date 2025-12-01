@@ -576,3 +576,10 @@ footer {
 }
 
 }
+
+@media only screen and (max-height: 770px) {
+  .logo img{
+  max-height: 140px;
+  margin:0 auto;
+}
+}
