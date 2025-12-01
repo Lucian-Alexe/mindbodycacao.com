@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Mind, Body, Cacao | Psychotherapy, Somatic Therapy, Cacao Therapy
-description: Integrative therapy in Mexico with psychotherapy, body therapy, EMDR, Brainspotting, and cacao rituals. English and Spanish sessions.
+title: Psychotherapy, Somatic Therapy, Cacao Therapy in Mexico City
+description: Integrative therapy in Mexico with psychotherapy, EMDR, Brainspotting, body therapy, and cacao rituals. English and Spanish sessions. Prices starting MX$800.
 
 ---
 
@@ -11,7 +11,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
     <div class="inside-container">
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
     <!--<h1 class="text-center mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>-->
-    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English.</p>
+    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing, starting at MX$900</p>
       <div class="text-center my-5">
       <div class="hero-person-image"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session <i class="bi bi-arrow-right-circle"></i></a>
@@ -35,7 +35,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
     <div class="inside-container">
     <!--BlueBox start -->
       <div class="blue-box">
-        <div class="services-image"><img src="/assets/img/psycho-therapy-services.svg" class="img-fluid"></div>
+        <div class="services-image"><img src="/assets/img/psycho-therapy-services.svg" class="img-fluid" alt="Icon for Psychotherapy"></div>
         <h2 class="text-center">The Mind</h2>
         <h3 class="text-center blue-box-h3">Psychotherapy & Mental Health Services</h3>
         <p class="text-center mt-5">At the heart of my holistic approach to mental health is psychotherapy, where I draw from a variety of therapeutic methods to support you on your healing journey. Whether it's through <strong>traditional psychotherapy</strong>, <strong>EMDR</strong>, or <strong>Brainspotting</strong>, I'm here to guide individuals through challenges like trauma, PTSD, anxiety, adjustment to a new country, depression, and relationship struggles. </p>
@@ -50,7 +50,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/therapy.jpg" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/therapy.jpg" class="card-img-top" loading="lazy" alt="Therapy session with psychologist in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -65,7 +65,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/emdr.jpg" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/emdr.jpg" class="card-img-top" loading="lazy" alt="Photo shows an EMDR session in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flexraditional Psy">
@@ -80,7 +80,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/brainspotting.jpg" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/brainspotting.jpg" class="card-img-top" loading="lazy" alt="Image shows brainspotting therapy in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -103,7 +103,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
     <!--BlueBox end -->
     <!--BlueBox start -->
       <div class="blue-box">
-      <div class="services-image"><img src="/assets/img/body-movement-therapy-yoga.svg" class="img-fluid"></div>
+      <div class="services-image"><img src="/assets/img/body-movement-therapy-yoga.svg" class="img-fluid" alt="Icon for Body Movement Therapy"></div>
         <h2 class="text-center">The Body</h2>
         <h3 class="text-center blue-box-h3">Movement & Embodiment Therapy</h3>
         <p class="text-center mt-5">Because the body holds emotions, memory, and stress, healing must involve more than the mind. I focus on connecting the two through <strong>movement therapy</strong>, <strong>yoga</strong>, <strong>dance therapy</strong>, and <strong>embodiment practices</strong>. By engaging the body in mindful physical practices, we can unlock deep healing and emotional release. These therapies not only improve mental health but also promote physical well-being, helping you cultivate a balanced, resilient life. </p>
@@ -118,7 +118,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/yoga.jpg" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/yoga.jpg" class="card-img-top" loading="lazy" alt="Photo shows a yoga session therapy in Mexico">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -133,7 +133,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/movement.jpg" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/movement.jpg" class="card-img-top" loading="lazy" alt="Image shows a movement therapy in action">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flexraditional Psy">
@@ -148,7 +148,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/dance.jpg" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/dance.jpg" class="card-img-top" loading="lazy" alt="Image shows a dance movement session therapy">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -163,7 +163,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/somatic.jpg" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/somatic.jpg" class="card-img-top" loading="lazy" alt="Image shows a movement therapy in Mexico with acredited psychotherapist">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -186,7 +186,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
     <!--BlueBox end -->
         <!--BlueBox start -->
       <div class="blue-box">
-      <div class="services-image"><img src="/assets/img/cacao-therapy-ceremony.svg" class="img-fluid"></div>
+      <div class="services-image"><img src="/assets/img/cacao-therapy-ceremony.svg" class="img-fluid" alt="Icon for cacao ritual"></div>
         <h2 class="text-center">Cacao</h2>
         <h3 class="text-center blue-box-h3">Cacao Therapy</h3>
         <p class="text-center mt-5"> In addition to traditional psychotherapy, the Cacao Therapy is an optional, complementary practice to enhance emotional release and self-reflection. Cacao, a sacred plant medicine, has been used for centuries in healing rituals to open the heart, facilitate deep emotional processing, and promote spiritual insight. Through cacao ceremonies, you will experience a powerful journey of self-discovery, where you can release emotional blockages, connect with your inner peace, and cultivate clarity.</p>
@@ -198,7 +198,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/couple.png" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/couple.png" class="card-img-top" loading="lazy" alt="Photo shows a couple during a cacao ritual in Mexico City">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
@@ -213,7 +213,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/individual.png" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/individual.png" class="card-img-top" loading="lazy" alt="Image shows an indvidual having a cacao ritual session">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flexraditional Psy">
@@ -228,13 +228,13 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
                   <li>
                       <div class="card border-0">
                           <div class="ratio ratio-16x9">
-                              <img src="../assets/img/group.png" class="card-img-top" loading="lazy" alt="...">
+                              <img src="../assets/img/group.png" class="card-img-top" loading="lazy" alt="Photo shows a group during a cacao therapy">
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flex">
                                   <h3 class="">Group Cacao Ritual</h3>
                               </div>
-                              <p class="card-text">A 120-minute shared cacao ceremony for groups of 3 to 20 people — perfect for intimate celebrations, anniversaries, or special gatherings. Warm space, collective intention, and a shared journey.</p>
+                              <p class="card-text">A 120-minute shared cacao ceremony for groups of 3 to 5 people — perfect for intimate celebrations, anniversaries, or special gatherings. Warm space, collective intention, and a shared journey.</p>
                                <p class="card-body-price">Starting at MX$1800/h</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="blank" alt="Book now" class="card-book-button">Book a free consultation</a></p>
                           </div>
@@ -319,7 +319,7 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
       </div>
        <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a href="/therapy-for-expats-in-mexico" class="thin-box-link">
+          <a href="/english-therapy-mexico-city" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
               <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
@@ -352,3 +352,133 @@ description: Integrative therapy in Mexico with psychotherapy, body therapy, EMD
 </section>
 
 
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "itemListElement": [
+    {
+      "@type": "Product",
+      "name": "Traditional Psychotherapy",
+      "description": "A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It's talk-based, flexible, and can be combined with other therapeutic approaches when helpful.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "900",
+        "priceUnitOfMeasure": "HOUR",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "EMDR",
+      "description": "Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "900",
+        "priceUnitOfMeasure": "HOUR",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Brainspotting",
+      "description": "A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual ‘spot’ that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "900",
+        "priceUnitOfMeasure": "HOUR",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Yoga Therapy",
+      "description": "A 60-90 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It can stand alone or be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "800",
+        "priceUnitOfMeasure": "SESSION",
+        "priceRange": "1400",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Movement Therapy",
+      "description": "A 60–90 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It can be paired with talk therapy or trauma work for deeper integration.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "800",
+        "priceUnitOfMeasure": "SESSION",
+        "priceRange": "1400",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Dance Therapy",
+      "description": "A 60-minute session using expressive movement and rhythm to explore feelings, reduce stress, and shift energy that’s hard to access through words alone. No dance experience needed, just curiosity and a willingness to move.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "900",
+        "priceUnitOfMeasure": "HOUR",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Somatic Experiencing",
+      "description": "A 60-minute body-based session focused on nervous system regulation and releasing stored stress or trauma. We work gently with sensations, impulses, and grounding tools (in person or online), and it can easily be combined with other therapeutic approaches.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "900",
+        "priceUnitOfMeasure": "HOUR",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Couple Cacao Ritual",
+      "description": "A 60-120 minute cacao ceremony for two: ideal for healing, deepening connection, or preparing for the next chapter (like pre-marriage). Can be held at your place or another location you choose.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "1500",
+        "priceUnitOfMeasure": "SESSION",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Individual Cacao Ritual",
+      "description": "A 60-minute private cacao session designed for personal reflection, emotional release, or spiritual reconnection — a gentle pause just for you.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "1000",
+        "priceUnitOfMeasure": "SESSION",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "Group Cacao Ritual",
+      "description": "A 120-minute shared cacao ceremony for groups of 3 to 5 people — perfect for intimate celebrations, anniversaries, or special gatherings. Warm space, collective intention, and a shared journey.",
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "MXN",
+        "price": "1800",
+        "priceUnitOfMeasure": "HOUR",
+        "url": "https://zcal.co/mindbodycacao/consultation"
+      }
+    }
+  ]
+}
+</script>

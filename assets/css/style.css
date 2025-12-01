@@ -343,6 +343,15 @@ strong {
   padding:1em;
 }
 
+.blue-box-slider .card  {
+  border-radius: 0.8em;
+}
+
+.card-img-top {
+  border-top-left-radius: 0.8em;
+  border-top-right-radius: 0.8em;
+}
+
 .card-body-price {
   font-size: 16px;
   color:rgba(0,0,0,0.4)
