@@ -345,6 +345,7 @@ strong {
 
 .blue-box-slider .card  {
   border-radius: 0.8em;
+  height:100%;
 }
 
 .card-img-top {
@@ -365,7 +366,8 @@ strong {
   font-size: var(--body-sm-size);
   color:var(--color-accent);
   border-radius: 2em;
-
+  bottom: 1.5em;
+  position: absolute;
 }
 
 .card-book-button:hover {
