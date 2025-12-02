@@ -11,12 +11,20 @@ description: Integrative therapy in Mexico with psychotherapy, EMDR, Brainspotti
     <div class="inside-container">
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
     <!--<h1 class="text-center mb-5">Welcome to Mind, Body, Cacao where <a href="/psychotherapy-mental-health-services" class="hero-area-link">psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body therapy</a> and <a class="hero-area-link" href="cacao-therapy-ceremony/">spiritual practices</a> work together to nurture lasting healing.</h1>-->
-    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing, starting at MX$900.</p>
+    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
       <div class="text-center my-5">
-      <div class="hero-person-image"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank">Book your free session <i class="bi bi-arrow-right-circle"></i></a>
-      <p class="text-center mt-5 small-hero"><small><a class="hero-area-link" href="/about">...or get to know your therapist</a></small></p>
+      <a href="/about" class="hero-bio-link">
+      <div class="hero-bio p-3">
+          <div class="row justify-content-between align-items-center">
+              <div class="col-md-12 col-lg-3"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City"></div>
+              <div class="col-md-12  col-lg-9">
+                <p><strong>Tania Chapper, Psychotherapist, M.A.</strong></p>
+                <p>Bilingual therapist with 10+ years of experience in the US and Mexico, specializing in individual, couples, and adolescent therapy. Certified in EMDR and BrainSpotting. Online and in-person sessions available. Learn more about me.</p>
+              </div>
+          </div>
       </div>
+      </a>
     </div>
   </div>
   </div>
