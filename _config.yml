@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-# title: Mind, Body, Cacao - Psychotherapy, Somatic Therapy, Cacao Therapy
+
 email: lucalexe@gmail.com
 # description: Integrative healing in Mexico with psychotherapy, body therapy, EMDR, Brainspotting, and cacao rituals. English and Spanish sessions.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -38,6 +38,13 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+
+social:
+  name: Tania Chapper
+  links:
+    - https://www.linkedin.com/in/tania-chapper-73554125
+    - https://maps.app.goo.gl/JYrDt9frie8cxzTA7
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
