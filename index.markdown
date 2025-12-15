@@ -117,7 +117,7 @@ description: Integrative therapy studio in Mexico offering psychotherapy, EMDR, 
         <p class="text-center mt-5">Because the body holds emotions, memory, and stress, healing must involve more than the mind. I focus on connecting the two through <strong>movement therapy</strong>, <strong>yoga</strong>, <strong>dance therapy</strong>, and <strong>embodiment practices</strong>. By engaging the body in mindful physical practices, we can unlock deep healing and emotional release. These therapies not only improve mental health but also promote physical well-being, helping you cultivate a balanced, resilient life. </p>
         <p class="text-center">Body therapy may be effectively combined with psychotherapy as an alternative or complementary method of treatment. My qualifications as a <strong>certified yoga instructor</strong>, along with my training in contemporary dance, ensure that you receive support grounded in both experience and professionalism.</p>
         <div class="tags text-center mt-5">
-          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Movement therapy</span> <span class="blue-box-tag">Embodiment therapy</span> <span class="blue-box-tag">Somatic Experiencing</span> <span class="blue-box-tag">Dance therapy</span> 
+          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Movement therapy</span> <span class="blue-box-tag">Embodiment therapy</span> <span class="blue-box-tag">Dance therapy</span> 
         </div>
         <!--Slider start-->
         <div class="blue-box-slider my-5">
@@ -163,21 +163,6 @@ description: Integrative therapy studio in Mexico offering psychotherapy, EMDR, 
                                   <h3 class="">Dance Therapy</h3>
                               </div>
                               <p class="card-text">A 60-minute session using expressive movement and rhythm to explore feelings, reduce stress, and shift energy that’s hard to access through words alone. No dance experience needed, just curiosity and a willingness to move.</p>
-                               <p class="card-body-price">Session at MX$900/h</p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
-                          </div>
-                      </div>
-                  </li>
-                  <li>
-                      <div class="card border-0">
-                          <div class="ratio ratio-16x9">
-                              <img src="../assets/img/somatic.jpg" class="card-img-top" loading="lazy" alt="Image shows a movement therapy in Mexico with acredited psychotherapist">
-                          </div>
-                          <div class="card-body p-0 p-4">
-                              <div class="d-flex">
-                                  <h3 class="">Somatic Experiencing</h3>
-                              </div>
-                              <p class="card-text">A 60-minute body-based session focused on nervous system regulation and releasing stored stress or trauma. We work gently with sensations, impulses, and grounding tools (in person or online), and it can easily be combined with other therapeutic approaches.</p>
                                <p class="card-body-price">Session at MX$900/h</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
@@ -358,5 +343,88 @@ description: Integrative therapy studio in Mexico offering psychotherapy, EMDR, 
     </div>
   </div>
 </section>
+
+<section>
+  <div class="container">
+    <div class="inside-container pt-5 pb-5">
+      <h2 class="text-center">Frequently Asked Questions</h2>
+          <div class="accordion mt-5" id="accordionPanelsFAQ">
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseOne" aria-expanded="true" aria-controls="PanelsFAQ-collapseOne">
+                  In what language are the sessions conducted?
+                </button>
+              </h2>
+              <div id="PanelsFAQ-collapseOne" class="accordion-collapse collapse show">
+                <div class="accordion-body">
+                  The sessions are conducted in either English or Spanish, depending on your preference.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseTwo" aria-expanded="false" aria-controls="PanelsFAQ-collapseTwo">
+                 Are the sessions held remotely or in person?
+                </button>
+              </h2>
+              <div id="PanelsFAQ-collapseTwo" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  I offer both in-person sessions (in Mexico City) and remote sessions, depending on your schedule.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseThree" aria-expanded="false" aria-controls="PanelsFAQ-collapseThree">
+                  How long does one therapy session last?
+                </button>
+              </h2>
+              <div id="PanelsFAQ-collapseThree" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Sessions typically last between 60 and 90 minutes, depending on the type of therapy. Therapy is most effective when done regularly, and I recommend starting with one session per week, adjusting as needed.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseFour" aria-expanded="false" aria-controls="PanelsFAQ-collapseFour">
+                  Can different therapies be combined (e.g., EMDR, talk therapy, body therapy)?
+                </button>
+              </h2>
+              <div id="PanelsFAQ-collapseFour" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Yes, therapies can be combined. Each treatment plan is tailored to meet your specific needs.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseFive" aria-expanded="false" aria-controls="PanelsFAQ-collapseFive">
+                  Do you work with adolescents or teenagers?
+                </button>
+              </h2>
+              <div id="PanelsFAQ-collapseFive" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Yes, I work with adolescents aged 14 and older.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseSix" aria-expanded="false" aria-controls="PanelsFAQ-collapseSix">
+                  Is the first consultation free?
+                </button>
+              </h2>
+              <div id="PanelsFAQ-collapseSix" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Yes, the first 15-minute consultation is always free. <a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now"  data-simple-event="book_consultation">Just book a time slot</a>, and I’ll get in touch with you.
+                </div>
+              </div>
+            </div>       
+          </div>
+    </div>
+  </div>
+</section>
+
 
 {% include product-schema.html %}

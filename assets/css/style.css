@@ -568,6 +568,27 @@ footer {
 }
 
 
+.accordion {
+  --bs-accordion-color: var(--bs-body-color);
+  --bs-accordion-bg: var(--bs-body-bg);
+  --bs-accordion-border-color: var(--color-secondary);
+  --bs-accordion-border-width: 2px;
+}
+
+.accordion-button:not(.collapsed) {
+  color: var(--color-accent);
+  background-color: var(--color-secondary);
+}
+
+.accordion-header {
+  font-size:var(--body-xl-size);
+}
+
+.accordion-body {
+  font-family: var(--font-copy);
+  padding:2em;
+}
+
 @media only screen and (max-width: 960px) {
   h1 {
     font-size: var(--h2-size);
