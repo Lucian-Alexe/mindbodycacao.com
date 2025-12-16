@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Expats Living in Mexico
+title: English-Speaking Therapy in Mexico City
 permalink: /english-therapy-mexico-city
-description: Therapy services for expats living in Mexico. With 15+ years of experience, I specialize in helping expats manage stress, adjust to life abroad, and improve mental health. Bilingual therapist (English/Spanish) offering EMDR, Brainspotting, and holistic support.
+description: English and Spanish therapy services in Mexico City. With over 10 years of experience, I help clients manage stress, adjust to life abroad, and enhance overall mental well-being. Offering EMDR, Brainspotting, somatic therapy, cacao sessions, and holistic support tailored to your needs.
 ---
 
 <section>

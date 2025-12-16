@@ -39,11 +39,7 @@ defaults:
     values:
       layout: "default"
 
-social:
-  name: Tania Chapper
-  links:
-    - https://www.linkedin.com/in/tania-chapper-73554125
-    - https://maps.app.goo.gl/JYrDt9frie8cxzTA7
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
