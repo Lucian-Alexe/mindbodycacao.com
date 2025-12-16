@@ -1,8 +1,8 @@
 ---
 layout: page
-title: English-Speaking Therapy in Mexico City
+title: "English-Speaking Therapy in Mexico City"
 permalink: /english-therapy-mexico-city
-description: English and Spanish therapy services in Mexico City. With over 10 years of experience, I help clients manage stress, adjust to life abroad, and enhance overall mental well-being. Offering EMDR, Brainspotting, somatic therapy, cacao sessions, and holistic support tailored to your needs.
+description: "English and Spanish therapy services in Mexico City. With over 10 years of experience, I help clients manage stress, adjust to life abroad, and enhance overall mental well-being. Offering EMDR, Brainspotting, somatic therapy, cacao sessions, and holistic support tailored to your needs."
 ---
 
 <section>

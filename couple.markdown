@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Couples Therapy
+title: "Couples Therapy"
 permalink: /couples-therapy
-description: Strengthen your relationship with professional couples therapy in Mexico. With 10+ years of experience, I offer EMDR, Brainspotting, and communication strategies to support couples in navigating challenges. Available in English and Spanish for your convenience.
+description: "Strengthen your relationship with professional couples therapy in Mexico. With 10+ years of experience, I offer EMDR, Brainspotting, and communication strategies to support couples in navigating challenges. Available in English and Spanish for your convenience."
 ---
 
 <section>

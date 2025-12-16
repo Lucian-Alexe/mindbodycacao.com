@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Notes"
+title: "Notes & Articles"
 permalink: /notes/
-descripton: Notes and articles on psychotherapy, somatic therapy and spiritual therapy... And everything in between.
+description: "Notes and articles on psychotherapy, somatic therapy and spiritual therapy... And everything in between."
 ---
 
 

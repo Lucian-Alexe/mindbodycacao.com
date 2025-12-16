@@ -1,8 +1,8 @@
 ---
 layout: default
-title: About me
+title: "Tania Chapper M.A. - English Therapist in Mexico City"
 permalink: /about/
-description: Experienced psychotherapist blending EMDR, Brainspotting, body movement for healing emotional, mental, and spiritual well-being. In English or Spanish. Session price MX$900.
+description: "Experienced psychotherapist blending EMDR, Brainspotting, body movement for healing emotional, mental, and spiritual well-being. In English or Spanish. Session price MX$900."
 ---
 
 
