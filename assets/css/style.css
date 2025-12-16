@@ -232,6 +232,8 @@ strong {
 .hero-h2 {
   
   font-family: var(--font-copy) !important;
+  font-size: var(--h5-size) ;
+  text-align: left;
 }
 
 .whatsapp-link {
@@ -321,6 +323,10 @@ strong {
 
 .hero-ratings a{
   text-decoration: none;
+  font-size: var(--body-sm-size);
+}
+
+.hero-ratings p {
   font-size: var(--body-sm-size);
 }
 
@@ -601,7 +607,7 @@ footer {
   background-color: var(--color-secondary);
 }
 
-.accordion-header {
+.accordion-button {
   font-size:var(--body-xl-size);
 }
 

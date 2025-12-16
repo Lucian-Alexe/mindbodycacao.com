@@ -14,14 +14,14 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       <div class="text-center my-5">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation">Book your free consultation <i class="bi bi-arrow-right-circle"></i></a>
       <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp">
-      <i class="bi bi-whatsapp"></i> Chat with me on WhatsApp
+      <i class="bi bi-whatsapp"></i> or chat with me on WhatsApp
       </a>
       <a href="/about" class="hero-bio-link">
       <div class="hero-bio p-3">
           <div class="row justify-content-between align-items-center">
               <div class="col-md-12 col-lg-3"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City"></div>
               <div class="col-md-12  col-lg-9">
-                <h2 class="hero-h2 py-2"><p><strong>Why work with me?</strong></p></h2>
+                <h2 class="hero-h2 py-2"><strong>Meet your therapist</strong></h2>
                 <p>I'm a bilingual therapist with 10+ years of experience in the US and Mexico, specializing in individual, couples, and adolescent therapy. Certified in EMDR and BrainSpotting, I'm adapting my therapeutic methods based on what works for you - either through traditional therapy or somatic therapy. Online and in-person sessions available. Click to learn more about me and my method.</p>
                 <p><strong>Tania Chapper, Psychotherapist, M.A.</strong></p>
               </div>
@@ -30,7 +30,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       </a>
       <div class="hero-ratings my-4">
           <div class="row justify-content-between align-items-center">
-          <p><a href="https://maps.app.goo.gl/JnB2wYg4fovwcjLw5" target="_blank"><i class="bi bi-google"></i> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></a> | <a href="https://latinxtherapy.com/therapists/tania-chapper-m-a/" target="_blank">LatinxTherapy (US Patients)</a> | <a href="https://www.doctoralia.com.mx/tania-chapper/psicologo/cuauhtemoc2" target="_blank">Doctoralia</a>
+          <p>Find me on: <a href="https://maps.app.goo.gl/JnB2wYg4fovwcjLw5" target="_blank"><i class="bi bi-google"></i> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></a> | <a href="https://latinxtherapy.com/therapists/tania-chapper-m-a/" target="_blank">LatinxTherapy (US Patients)</a> | <a href="https://www.doctoralia.com.mx/tania-chapper/psicologo/cuauhtemoc2" target="_blank">Doctoralia</a>
           </p> 
           </div>
         </div>
