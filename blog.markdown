@@ -2,6 +2,7 @@
 layout: default
 title: "Notes"
 permalink: /notes/
+descripton: Notes and articles on psychotherapy, somatic therapy and spiritual therapy... And everything in between.
 ---
 
 

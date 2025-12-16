@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adolescents
+title: Adolescents Psycotherapy and Somatic Therapy
 permalink: /adolescents-therapy
 description: Help your teen overcome emotional struggles with expert adolescent therapy in Mexico. With over 15 years of experience and a specialized approach, I support teens in managing anxiety, depression, and life transitions. Bilingual sessions available in English and Spanish.
 ---

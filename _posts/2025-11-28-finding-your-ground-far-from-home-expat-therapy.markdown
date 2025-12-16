@@ -2,7 +2,8 @@
 layout: post
 title: "Finding Your Ground Far From Home: The Power of Therapy While Living Abroad"
 date: 2025-11-28
-categories: therapy
+categories: notes
+description: Navigating life as an expat can be exciting yet overwhelming. In this post, explore how therapy can help you adjust to new cultures, release stress, and find emotional balance while living far from home.
 ---
 
 ![Finding Your Ground Far From Home](/assets/img/expats-in-mexico.jpg "Finding Your Ground Far From Home" )

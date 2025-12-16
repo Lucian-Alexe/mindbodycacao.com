@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Movement & Embodiment Therapy
+title: Somatic Therapy in Mexico City
 permalink: /body-therapy/
 description: Transform your mind and body with holistic therapy. As a certified yoga instructor, I combine movement, dance, and mindfulness techniques to promote healing, stress reduction, and emotional balance. Offering bilingual therapy (English/Spanish) in Mexico with a focus on body-based therapies.
 ---

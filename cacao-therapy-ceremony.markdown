@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cacao Therapy
+title: Cacao Therapy in Mexico City
 permalink: /cacao-therapy-ceremony/
 description: Explore the healing power of cacao with a certified therapist in Mexico. Cacao therapy blends ancient rituals with modern psychotherapy to enhance emotional and spiritual well-being. Bilingual sessions available in English and Spanish for deep healing and personal growth.
 ---

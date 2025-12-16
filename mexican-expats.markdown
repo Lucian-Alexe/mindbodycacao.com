@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mexican Expats Living Abroad
+title: Therapy for mexican living abroad
 permalink: /mexican-expats-living-abroad
 description: Therapy for Mexican expats living abroad. Overcome challenges of cultural adaptation, emotional stress, and isolation with a bilingual therapist (English/Spanish). Offering expert support through EMDR, Brainspotting, and holistic approaches for long-term well-being.
 ---

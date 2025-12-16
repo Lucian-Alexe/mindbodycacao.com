@@ -2,7 +2,8 @@
 layout: post
 title:  "What Is EMDR and Why It Helps with Trauma"
 date:   2025-11-20 14:01:09 +0100
-categories: therapy mind
+categories: notes
+description: EMDR therapy helps reprocess trauma, reducing its emotional intensity and bringing relief. Find out how this powerful therapy can help you heal from past experiences and improve your emotional health.
 ---
 
 ![What is Eye Movement Desensitization and Reprocessing (EMDR)](/assets/img/emdr-blog.jpg "What is Eye Movement Desensitization and Reprocessing" )

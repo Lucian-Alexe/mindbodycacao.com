@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Psychotherapy & Mental Health Services
+title: Psychotherapy & Mental Health Therapy
 description: Experienced bilingual therapist in Mexico offering professional psychotherapy & mental health services. With over 10 years of experience and certifications in EMDR, Brainspotting, and a Master’s in Psychology, I help individuals achieve emotional wellness and healing. Available in English & Spanish.
 permalink: /psychotherapy-mental-health-services/
 ---
