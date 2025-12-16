@@ -13,7 +13,7 @@ description: Integrative therapy studio in Mexico offering psychotherapy, EMDR, 
     <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
       <div class="text-center my-5">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation">Book your free consultation <i class="bi bi-arrow-right-circle"></i></a>
-      <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link">
+      <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp">
       <i class="bi bi-whatsapp"></i> Chat with me on WhatsApp
       </a>
       <a href="/about" class="hero-bio-link">
@@ -21,7 +21,7 @@ description: Integrative therapy studio in Mexico offering psychotherapy, EMDR, 
           <div class="row justify-content-between align-items-center">
               <div class="col-md-12 col-lg-3"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City"></div>
               <div class="col-md-12  col-lg-9">
-                <h2 class="hero-h2"><p><strong>Why work with me?</strong></p></h2>
+                <h2 class="hero-h2 py-2"><p><strong>Why work with me?</strong></p></h2>
                 <p>I'm a bilingual therapist with 10+ years of experience in the US and Mexico, specializing in individual, couples, and adolescent therapy. Certified in EMDR and BrainSpotting, I'm adapting my therapeutic methods based on what works for you - either through traditional therapy or somatic therapy. Online and in-person sessions available. Click to learn more about me and my method.</p>
                 <p><strong>Tania Chapper, Psychotherapist, M.A.</strong></p>
                 <p><i class="bi bi-google"></i> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i></p>
