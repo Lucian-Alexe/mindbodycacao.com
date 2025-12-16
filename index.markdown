@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Tania Chapper M.A. - Psychotherapy, Somatic Therapy & Cacao Therapy in Mexico City
-description: Integrative therapy studio in Mexico offering psychotherapy, EMDR, Brainspotting, body therapy, and cacao rituals. English and Spanish sessions. Prices starting MX$900.
+description: Psychologist in Mexico City: Personalized Therapy including EMDR, Brainspotting, Bodywork or Cacao Ceremonies. English/Spanish sessions from MX$900.
 
 ---
 
