@@ -10,10 +10,10 @@ description: "Strengthen your relationship with professional couples therapy in 
             <div class="inside-container">
                 <img src="/assets/img/couple.jpg" class="img-fluid img-services-clients">
                 <h1 class="text-center mt-3 mb-5">Couples Therapy</h1> 
-                <p class="page-intro">Relationships evolve, and sometimes partners need guidance to reconnect, rebuild trust, or understand each other differently. Couples therapy creates a safe environment to communicate with honesty, compassion, and intention.</p>
+                <p class="page-intro">Relationships evolve, and sometimes partners need guidance to reconnect, rebuild trust, or understand each other differently. During a couples therapy session, I create a safe environment for the partners to communicate with honesty, compassion, and intention. Many couples wait until problems feel overwhelming, but therapy is most effective when started early. Do not let the challenges that you are facing individually or as a couple stop you from keeping your relationship healthy. And before starting your first couple therapy session, I recommend that the two of you read my article on <a href="/notes/2025/12/21/couples-therapy-things-to-consider-before-first-session.html">how to better prepare for the first meeting.</a></p>
                 <div class="thin-box-no-click p-5 my-5">
-                        <h2 class="">Why Couples Therapy?</h2>
-                        <p>Couples Therapy may be especially helpful if you are experiencing:</p>
+                        <h2 class="">Do you need couples therapy?</h2>
+                        <p>This type of therapy may be especially helpful if you or your partner is experiencing:</p>
                         <ul class="page-service-list">
                             <li>Frequent arguments</li> <li>Emotional distance</li> <li>Trust ruptures</li> <li>Cultural or value differences</li> <li>Life transitions or stressors</li> <li>Misaligned expectations</li> <li>Intimacy challenges</li>
                         </ul>
@@ -31,15 +31,15 @@ description: "Strengthen your relationship with professional couples therapy in 
                             </li>
                             <li>
                                 <h3>EMDR</h3>
-                                <p>Helps each partner process personal triggers that show up in the relationship—for example, reacting strongly during conflict due to past relational pain.</p>
+                                <p>Helps each partner process personal triggers that show up in the relationship (for example, reacting strongly during conflict due to past relational pain). This will be done in individual sessions</p>
                             </li>
                             <li>
                                 <h3>Brainspotting Therapy</h3>
-                                <p>Helps partners identify emotional blocks affecting communication or closeness.</p>
+                                <p>Helps partners identify emotional blocks affecting communication or closeness. This will be done as an individual session</p>
                             </li>
                             <li>
                                 <h3>Body Movement & Somatic Work</h3>
-                                <p>Partners often hold tension during conflict (tight shoulders, holding breath). Somatic tools—breathing practices, grounding postures, or co-regulation exercises—support calmer communication.</p>
+                                <p>Partners often hold tension during conflict (tight shoulders, holding breath). Somatic tools—breathing practices, grounding postures, or co-regulation exercises—support calmer communication. This can be done either individually or together with your partner</p>
                             </li>
                             <li>
                                 <h3>Optional Cacao Session</h3>
