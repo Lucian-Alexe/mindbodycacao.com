@@ -568,7 +568,7 @@ footer {
   margin-top:2em;
   margin-bottom: 1em;
   border-bottom: 5px dotted var(--color-light-blue);
-
+  color:var(--color-accent);
 }
 
 .blog-content li {
