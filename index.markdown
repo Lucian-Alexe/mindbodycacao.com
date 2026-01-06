@@ -74,7 +74,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Traditional Psychotherapy</h3>
                               </div>
                               <p class="card-text">A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It’s talk-based, flexible, and can be combined with other therapeutic approaches when helpful.</p>
-                               <p class="card-body-price">Session at MX$900/h</p>
+                               <p class="card-body-price">MX$1000 - MX$1200 <br>(virtual/in-person)</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -89,7 +89,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">EMDR</h3>
                               </div>
                               <p class="card-text">Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”</p>
-                               <p class="card-body-price">Session at MX$900/h</p>
+                               <p class="card-body-price">MX$1000 - MX$1200 <br>(virtual/in-person)</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -104,7 +104,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Brainspotting</h3>
                               </div>
                               <p class="card-text">A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual “spot” that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.</p>
-                               <p class="card-body-price">Session at MX$900/h</p>
+                               <p class="card-body-price">MX$1000 - MX$1200 <br>(virtual/in-person)</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -142,7 +142,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Yoga Therapy</h3>
                               </div>
                               <p class="card-text">A 60–90 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It can stand alone or be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.</p>
-                               <p class="card-body-price">MX$800-MX$1400/session</p>
+                               <p class="card-body-price">MX$1000-MX$1400/session</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -157,7 +157,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Movement Therapy</h3>
                               </div>
                               <p class="card-text">A 60–90 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It can be paired with talk therapy or trauma work for deeper integration.</p>
-                               <p class="card-body-price">MX$800-MX$1400/session</p>
+                               <p class="card-body-price">MX$1000-MX$1400/session</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -172,7 +172,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Dance Therapy</h3>
                               </div>
                               <p class="card-text">A 60-minute session using expressive movement and rhythm to explore feelings, reduce stress, and shift energy that’s hard to access through words alone. No dance experience needed, just curiosity and a willingness to move.</p>
-                               <p class="card-body-price">Session at MX$900/h</p>
+                               <p class="card-body-price">MX$1000 - MX$1200 <br>(virtual/in-person)</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
