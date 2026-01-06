@@ -13,7 +13,7 @@ description: "English and Spanish therapy services in Mexico City. With over 10 
                 <p class="page-intro">Moving to Mexico City is exciting, but it can also feel overwhelming at times. Whether you came here for work, to be with family, or just for a change of scenery, starting fresh in a new place can be harder than it seems.</p>
                 <p class="page-intro"><strong>I get it</strong>. I’ve lived in the US, Europe, and now Mexico, so I know how it feels to adjust to a new culture and build a life from scratch. Missing your friends, feeling like a stranger in a new city, struggling with language barriers... these are things that really hit home. Or it might be that your family is taking longer to adapt. All these are real challenges.</p>
                 <p class="page-intro">That’s why I offer therapy in both <strong>English</strong> and <strong>Spanish</strong> in Mexico City. I want you to feel completely supported, no matter where you’re from. My goal is to help you feel more at home here, work through the ups and downs of living abroad, and find peace in this exciting new chapter of your life.</p>
-                <p class="page-intro">Prices are fully transparent, with the cost of a therapy session at MX$900.</p>
+                <p class="page-intro">Prices are fully transparent, with the cost of a therapy session at MX$1000.</p>
                 <div class="thin-box-no-click p-5 my-5">
                         <h2 class="">Why therapy might be helpful for you</h2>
                         <p>Living in a new country can be thrilling, but it can also bring up some tough emotions. You might be feeling:</p>
@@ -72,7 +72,7 @@ description: "English and Spanish therapy services in Mexico City. With over 10 
                                         <h3>Traditional Psychotherapy</h3>
                                         </div>
                                         <p class="card-text">A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It’s talk-based, flexible, and can be combined with other therapeutic approaches when helpful.</p>
-                                        <p class="card-body-price">Session at MX$900/h</p>
+                                        <p class="card-body-price">MX$1000 - MX$1200 <br>(virtual/in-person)</p>
                                         <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                                     </div>
                                     </div>
@@ -88,8 +88,8 @@ description: "English and Spanish therapy services in Mexico City. With over 10 
                                         <h3>EMDR</h3>
                                         </div>
                                         <p class="card-text">Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”</p>
-                                        <p class="card-body-price">Session at MX$900/h</p>
-                                        <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a>Book a free consultation</a></p>
+                                        <p class="card-body-price">MX$1000 - MX$1200 <br>(virtual/in-person)</p>
+                                        <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                                     </div>
                                     </div>
                                 </li>
@@ -104,7 +104,7 @@ description: "English and Spanish therapy services in Mexico City. With over 10 
                                         <h3>Brainspotting</h3>
                                         </div>
                                         <p class="card-text">A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual “spot” that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.</p>
-                                        <p class="card-body-price">Session at MX$900/h</p>
+                                        <p class="card-body-price">MX$1000 - MX$1200 <br>(virtual/in-person)</p>
                                         <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                                     </div>
                                     </div>
@@ -120,7 +120,7 @@ description: "English and Spanish therapy services in Mexico City. With over 10 
                                         <h3>Yoga Therapy</h3>
                                         </div>
                                         <p class="card-text">A 60–90 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It can stand alone or be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.</p>
-                                        <p class="card-body-price">MX$800-MX$1400/session</p>
+                                        <p class="card-body-price">MX$1000-MX$1400/session</p>
                                         <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                                     </div>
                                     </div>
@@ -136,7 +136,7 @@ description: "English and Spanish therapy services in Mexico City. With over 10 
                                         <h3>Movement Therapy</h3>
                                         </div>
                                         <p class="card-text">A 60–90 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It can be paired with talk therapy or trauma work for deeper integration.</p>
-                                        <p class="card-body-price">MX$800-MX$1400/session</p>
+                                        <p class="card-body-price">MX$1000-MX$1400/session</p>
                                         <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                                     </div>
                                     </div>
@@ -152,23 +152,7 @@ description: "English and Spanish therapy services in Mexico City. With over 10 
                                         <h3>Dance Therapy</h3>
                                         </div>
                                         <p class="card-text">A 60-minute session using expressive movement and rhythm to explore feelings, reduce stress, and shift energy that’s hard to access through words alone. No dance experience needed, just curiosity and a willingness to move.</p>
-                                        <p class="card-body-price">Session at MX$900/h</p>
-                                        <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
-                                    </div>
-                                    </div>
-                                </li>
-                                <!-- Somatic Experiencing Slider Item -->
-                                <li>
-                                    <div class="card border-0">
-                                    <div class="ratio ratio-16x9">
-                                        <img src="../assets/img/somatic.jpg" class="card-img-top" loading="lazy" alt="Image shows a movement therapy in Mexico with accredited psychotherapist">
-                                    </div>
-                                    <div class="card-body p-0 p-4">
-                                        <div class="d-flex">
-                                        <h3>Somatic Experiencing</h3>
-                                        </div>
-                                        <p class="card-text">A 60-minute body-based session focused on nervous system regulation and releasing stored stress or trauma. We work gently with sensations, impulses, and grounding tools (in person or online), and it can easily be combined with other therapeutic approaches.</p>
-                                        <p class="card-body-price">Session at MX$900/h</p>
+                                        <p class="card-body-price">Session at MX$1000/h</p>
                                         <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                                     </div>
                                     </div>
