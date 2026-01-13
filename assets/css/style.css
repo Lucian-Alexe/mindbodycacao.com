@@ -131,6 +131,44 @@ strong {
   font-weight: 100;
 }
 
+table {
+  width: 100%;
+  border-collapse: collapse;
+  table-layout: fixed;
+  font-size: var(--body-size);
+  font-family: var(--font-copy);
+  margin-bottom: 2em;
+}
+
+thead tr {
+  background-color: var(--color-accent, #a9542d);
+  color: white;
+  text-transform: uppercase;
+}
+
+th,
+td {
+  padding: 1rem 0.5rem;
+  text-align: left;
+  vertical-align: middle;
+}
+
+/* Inner vertical borders */
+th:not(:last-child),
+td:not(:last-child) {
+  
+}
+
+/* Inner horizontal borders */
+thead tr {
+  border-bottom: 1px solid var(--color-secondary);
+}
+
+tbody tr:not(:last-child) {
+  border-bottom: 1px solid var(--color-secondary);
+}
+
+
 
 .container {
   --bs-gutter-x: 2.5rem;
@@ -563,16 +601,48 @@ footer {
   color:black;
 }
 
+.blog-content h1 {
+  margin-top:2em;
+  font-size: var(--h1-size);
+  
+}
+
 
 .blog-content h2 {
   margin-top:2em;
   margin-bottom: 1em;
   border-bottom: 5px dotted var(--color-light-blue);
   color:var(--color-accent);
+  font-size: var(--h1-size);
+  
+}
+
+.blog-content h3 {
+  margin-top:2.2em;
+  margin-bottom: 0.5em;
+  font-family: var(--font-copy);
+  font-size:var(--h2-size);
+  color:var(--color-secondary-dark);
+  
+}
+
+.blog-content ul {
+  margin-bottom: 1em;
+  
 }
 
 .blog-content li {
   font-family: var(--font-copy);
+   font-size: var(--h4-size);
+   margin-bottom: 0.5em;
+}
+
+.blog-content li p {
+  margin-bottom: 0.5em;
+}
+
+.blog-content li::marker {
+  font-size: var(--h4-size);
 }
 
 .blog-content img {
@@ -581,11 +651,20 @@ footer {
   border-radius: 2em;
 }
 
+.blog-content p {
+  font-size:var(--h4-size);
+  line-height: var(--body-line-height);
+  margin-bottom: 1em;
+}
+
+
+
 .intro-blog {
   font-family: var(--font-family);
-  font-size: var(--h5-size);
-
+  font-size: var(--h3-size);
+  color:var(--color-secondary-dark);
   font-style: italic;
+  margin:1.5em 0;
 }
 
 .img-services-clients {
@@ -658,6 +737,46 @@ footer {
   font-size:var(--body-size);
 }
 
+.blog-content h1 {
+  font-size: var(--h1-size);
+  
+}
+
+
+.blog-content h2 {
+  font-size: var(--h2-size);
+  
+}
+
+.blog-content h3 {
+  font-size:var(--h3-size);
+  
+}
+
+.blog-content li {
+  font-size: var(--body-size);
+}
+
+.blog-content li::marker {
+  font-size: var(--body-size);
+}
+
+.blog-content p {
+  font-size: var(--body-size);
+}
+
+
+
+.intro-blog {
+  font-size: var(--h5-size);
+}
+
+  th,
+  td {
+    padding: 0.5rem 0.25rem;
+    font-size: 0.875rem;
+  }
+
 }
 
 @media only screen and (max-height: 770px) {
@@ -665,4 +784,6 @@ footer {
   max-height: 140px;
   margin:0 auto;
 }
+
+
 }
