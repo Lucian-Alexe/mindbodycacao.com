@@ -4,4 +4,4 @@ RewriteCond %{HTTPS} !on
 RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 </IfModule>
 
-Redirect 301 /body-therapy http://www.yourdomain.com/somatic-therapy-mexico-city
+RedirectMatch 301 ^/body-therapy/.*$ http://www.yourdomain.com/somatic-therapy-mexico-city
