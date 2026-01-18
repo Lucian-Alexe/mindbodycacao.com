@@ -1,9 +1,4 @@
 
-<IfModule mod_rewrite.c>
-RewriteEngine On
-RewriteCond %{HTTPS} !on
-RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
-</ifModule>
 
 <IfModule mod_rewrite.c>
 RewriteEngine On
@@ -13,4 +8,10 @@ RewriteRule ^/?body-therapy/ https://mindbodycacao.com/somatic-therapy-mexico-ci
 <IfModule mod_rewrite.c>
 RewriteEngine On
 RedirectMatch 301 ^/body-therapy/ https://mindbodycacao.com/somatic-therapy-mexico-city?
+</ifModule>
+
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTPS} !on
+RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI}
 </ifModule>
