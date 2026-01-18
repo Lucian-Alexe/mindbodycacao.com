@@ -601,6 +601,55 @@ footer {
   color:black;
 }
 
+
+.white-skill-box-extension {
+    background-color: var(--color-secondary-dark);
+  border-radius: 1.5em;
+  font-family: var(--font-copy);
+  font-weight: 600;
+  color:white;
+  font-size:14px;
+  font-family: var(--font-copy);
+  opacity:0.7;
+  transition: all 0.3s ease ;
+}
+
+.white-skill-box-extension:hover {
+  opacity:1;
+  transition: all 0.3s ease ;
+}
+
+.white-skill-box-extension a {
+  color:white;
+  text-decoration: none;
+}
+
+.footer-menu-links {
+  max-width: 1600px;
+  margin:0 auto;
+  display: block;
+}
+
+.footer-menu-links ul{
+  margin-bottom: 0.5em;
+    list-style-type: none;
+  padding:0;
+  margin-bottom:0;
+  text-align: center;
+  
+}
+
+.footer-menu-links li {
+  display: inline;
+  padding: 1em;
+  white-space: nowrap
+}
+
+
+
+
+
+
 .blog-content h1 {
   margin-top:2em;
   font-size: var(--h1-size);
@@ -666,6 +715,27 @@ footer {
   font-style: italic;
   margin:1.5em 0;
 }
+
+
+.related-articles {
+  padding:0 3em;
+  font-size:1em;
+  background-color: var(--color-light-blue);
+  border-radius: 2em;
+  opacity:0.8;
+  transition: all 0.3s ease ;
+}
+
+.related-articles:hover {
+  opacity:1;
+  transition: all 0.3s ease ;
+}
+
+.related-articles h4 {
+  font-size:var(--body-size);
+  font-family: var(--font-copy);
+}
+
 
 .img-services-clients {
   border-radius: 2em;
@@ -776,6 +846,17 @@ footer {
     padding: 0.5rem 0.25rem;
     font-size: 0.875rem;
   }
+
+.footer-menu-links li {
+  display: block;
+  padding: 0.3em;
+  white-space: nowrap;
+}
+
+.footer-menu-links ul{ 
+  text-align: left;
+}
+
 
 }
 

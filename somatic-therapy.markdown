@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Somatic Therapy in Mexico City"
-permalink: /body-therapy/
+permalink: /somatic-therapy-mexico-city/
 description: "Transform your mind and body with holistic therapy. As a certified yoga instructor, I combine movement, dance, and mindfulness techniques to promote healing, stress reduction, and emotional balance. Offering bilingual therapy (English/Spanish) in Mexico with a focus on body-based therapies."
 ---
 
@@ -9,12 +9,12 @@ description: "Transform your mind and body with holistic therapy. As a certified
     <div class="container">
             <div class="inside-container">
                 <img src="/assets/img/body-therapy.png" class="img-fluid">
-                <h1 class="text-center mt-3 mb-5">Body Therapy (Yoga, Dance, Movement)</h1> 
+                <h1 class="text-center mt-3 mb-5">Somatic Therapy (Yoga, Dance, Movement)</h1> 
                 <p class="page-intro">Body-based therapy supports emotional healing by reconnecting you with the wisdom and signals of your physical self. This work is especially helpful when talking alone doesn’t quite touch the deeper layers of stress, pain, or emotion. Because the body holds memory, tension, and unprocessed experiences, movement can bring clarity and release in a way that words sometimes cannot.</p>
                 <p>My background as a yoga instructor and trained dancer shapes the way I guide this process. Sessions may include gentle yoga therapy to help regulate the nervous system, movement therapy to explore emotions through the body, or embodiment practices that build a stronger sense of inner safety and presence. Dance therapy invites creative expression and helps clients reconnect with vitality, while elements of somatic experiencing support healing from stress or trauma by helping the body complete patterns it never had space to finish.</p>
-                <p>People often come to body therapy when they feel disconnected from themselves, when emotions feel “stuck,” or when stress shows up physically as tension, fatigue, tightness, or restlessness. This approach is especially supportive for clients who want to feel more grounded, more in tune with their emotions, and more at home in their bodies. It is available online or in-person in Mexico City.</p>
+                <p>People often come to somatic therapy when they feel disconnected from themselves, when emotions feel “stuck,” or when stress shows up physically as tension, fatigue, tightness, or restlessness. This approach is especially supportive for clients who want to feel more grounded, more in tune with their emotions, and more at home in their bodies. It is available online or in-person in Mexico City.</p>
                 <div class="thin-box-no-click p-5 my-5">
-                        <h2 class="">Who Can Benefit From Body Therapy</h2>
+                        <h2 class="">Who Can Benefit From Somatic Therapy</h2>
                         <p>Warmly supporting individuals, adolescents, parents, creatives, and expats through:</p>
                         <ul class="page-service-list">
                             <li>Anxiety, stress, and feeling disconnected from the body</li>
@@ -65,6 +65,16 @@ description: "Transform your mind and body with holistic therapy. As a certified
                     </div>
             </div>
         </div>
+        </div>
+    </div>
+    <div class="inside-container">
+        <div class="related-articles py-5">
+        <h3>Related articles</h3>
+        {% for post in site.categories.somatic-therapy limit:5 %}
+        <div class="my-3">
+          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        </div>
+        {% endfor %}
         </div>
     </div>
 </section>

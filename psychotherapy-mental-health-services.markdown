@@ -77,4 +77,15 @@ image: /assets/img/psycotherapy-services.png
         </div>
         </div>
     </div>
+    <div class="inside-container">
+        <div class="related-articles py-5">
+        <h3>Related articles</h3>
+        {% for post in site.categories.psychotherapy limit:5 %}
+        <div class="my-3">
+          <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
+        </div>
+        {% endfor %}
+        </div>
+    </div>
 </section>
+

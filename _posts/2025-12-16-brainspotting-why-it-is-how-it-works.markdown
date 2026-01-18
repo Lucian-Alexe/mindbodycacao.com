@@ -2,7 +2,7 @@
 layout: post
 title: "Brainspotting: What It Is and Why It’s Effective"
 date: 2025-12-16
-categories: notes
+categories: notes psychotherapy
 image: /assets/img/brainspotting-mexico-city.jpg
 description: "Seasonal Affective Disorder (SAD) isn’t just a concern in colder regions. This post explores how reduced sunlight and pollution in Mexico City can trigger winter blues, with a focus on symptoms, gender differences, and coping strategies for residents facing seasonal mood changes."
 ---

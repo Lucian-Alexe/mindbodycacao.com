@@ -10,7 +10,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
   <div class="container">
     <div class="inside-container">
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
-    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/body-therapy" class="hero-area-link">body movement</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
+    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
       <div class="text-center my-5">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation">Book your free consultation <i class="bi bi-arrow-right-circle"></i></a>
       <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp">
@@ -42,7 +42,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
      srcset="/assets/img/psycotherapy-expats-body-therapy-cacao-therapy.png 1000w, 
              /assets/img/psycotherapy-expats-body-therapy-cacao-therapy-small.png 1200w"
      sizes="(min-width: 1024px) 1000px, 1200px"
-     alt="The different therapies offered by Mind, Body, Cacao psychotherapy, body therapy, spiritual therapy"
+     alt="The different therapies offered by Mind, Body, Cacao psychotherapy, somatic therapy, spiritual therapy"
      class="img-fluid" />
   </div>
 </section>
@@ -122,11 +122,11 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       <div class="blue-box">
       <div class="services-image"><img src="/assets/img/body-movement-therapy-yoga.svg" class="img-fluid" alt="Icon for Body Movement Therapy"></div>
         <h2 class="text-center">The Body</h2>
-        <h3 class="text-center blue-box-h3">Movement & Embodiment Therapy</h3>
+        <h3 class="text-center blue-box-h3">Somatic Therapy (yoga, dance, movement)</h3>
         <p class="text-center mt-5">Because the body holds emotions, memory, and stress, healing must involve more than the mind. I focus on connecting the two through <strong>movement therapy</strong>, <strong>yoga</strong>, <strong>dance therapy</strong>, and <strong>embodiment practices</strong>. By engaging the body in mindful physical practices, we can unlock deep healing and emotional release. These therapies not only improve mental health but also promote physical well-being, helping you cultivate a balanced, resilient life. </p>
-        <p class="text-center">Body therapy may be effectively combined with psychotherapy as an alternative or complementary method of treatment. My qualifications as a <strong>certified yoga instructor</strong>, along with my training in contemporary dance, ensure that you receive support grounded in both experience and professionalism.</p>
+        <p class="text-center">Somatic therapy may be effectively combined with psychotherapy as an alternative or complementary method of treatment. My qualifications as a <strong>certified yoga instructor</strong>, along with my training in contemporary dance, ensure that you receive support grounded in both experience and professionalism.</p>
         <div class="tags text-center mt-5">
-          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Movement therapy</span> <span class="blue-box-tag">Embodiment therapy</span> <span class="blue-box-tag">Dance therapy</span> 
+          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Movement therapy</span> <span class="blue-box-tag">Yoga therapy</span> <span class="blue-box-tag">Dance therapy</span> 
         </div>
         <!--Slider start-->
         <div class="blue-box-slider my-5">
@@ -397,7 +397,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
             <div class="accordion-item">
               <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseFour" aria-expanded="false" aria-controls="PanelsFAQ-collapseFour">
-                  Can different therapies be combined (e.g., EMDR, talk therapy, body therapy)?
+                  Can different therapies be combined (e.g., EMDR, talk therapy, somatic therapy)?
                 </button>
               </h2>
               <div id="PanelsFAQ-collapseFour" class="accordion-collapse collapse">

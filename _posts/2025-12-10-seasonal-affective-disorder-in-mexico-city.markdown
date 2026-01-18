@@ -2,7 +2,7 @@
 layout: post
 title: "Seasonal Affective Disorder (SAD) in Mexico City: Understanding the Data Behind the Winter Blues"
 date: 2025-12-10
-categories: notes
+categories: notes psychotherapy
 image: /assets/img/sad-mexico-city-therapy.jpg
 description: "Seasonal Affective Disorder (SAD) isn’t just a concern in colder regions. This post explores how reduced sunlight and pollution in Mexico City can trigger winter blues, with a focus on symptoms, gender differences, and coping strategies for residents facing seasonal mood changes."
 ---

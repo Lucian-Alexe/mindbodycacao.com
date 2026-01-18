@@ -2,7 +2,7 @@
 layout: post
 title: "Couples Therapy: Things to consider before your first couple therapy session"
 date: 2025-12-21
-categories: notes
+categories: notes psychotherapy somatic-therapy cacao-therapy
 image: /assets/img/couples-therapy-mexico-city.jpg
 description: "Tips on preparing for couple therapy and why you shouldn't delay it, with advice for those seeking couple therapy in Mexico City in English."
 ---

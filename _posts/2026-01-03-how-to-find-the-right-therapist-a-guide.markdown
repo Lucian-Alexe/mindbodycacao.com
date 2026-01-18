@@ -2,7 +2,7 @@
 layout: post
 title: "How to Find the Right Therapist in Mexico City: A Comprehensive Guide"
 date: 2026-01-03
-categories: notes
+categories: notes psychotherapy somatic-therapy cacao-therapy
 image: /assets/img/find-english-therapy-mexico-city.jpg
 description: "Tips on preparing for couple therapy and why you shouldn't delay it, with advice for those seeking couple therapy in Mexico City in English."
 ---

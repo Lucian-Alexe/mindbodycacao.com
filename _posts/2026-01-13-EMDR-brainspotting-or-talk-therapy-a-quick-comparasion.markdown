@@ -2,7 +2,7 @@
 layout: post
 title: "EMDR, BrainSpotting, or Talk Therapy?"
 date: 2026-01-13
-categories: notes
+categories: notes psychotherapy
 image: /assets/img/compare-emdr-brainspotting-therapy.jpg
 description: "Compare EMDR, BrainSpotting, and talk therapy with a psychologist offering therapy in English in Mexico City, including Condesa and online."
 ---

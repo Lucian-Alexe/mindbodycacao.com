@@ -2,7 +2,7 @@
 layout: post
 title: "Therapy in Mexico City: Finding Calm in a Big, Beautiful City"
 date: 2025-11-30
-categories: notes
+categories: notes psychotherapy somatic-therapy cacao-therapy
 image: /assets/img/mexico-city.jpg
 description: "Mexico City offers endless possibilities, but the constant movement can leave you feeling emotionally drained. Explore how therapy can support your mental health in the city, with a focus on EMDR, psychotherapy, and body-based approaches for stress relief."
 ---
