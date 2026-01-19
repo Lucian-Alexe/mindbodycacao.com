@@ -24,6 +24,7 @@ email: lucalexe@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mindbodycacao.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  Lucian-Alexe
+permalink:  /notes/:year/:month/:day/:title
 
 # Build settings  - jekyll-compress-images
 

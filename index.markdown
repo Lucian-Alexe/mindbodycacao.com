@@ -435,6 +435,19 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
   </div>
 </section>
 
+<section>
+    <div class="inside-container">
+        <div class="related-articles py-5 my-4">
+        <h2 class="text-center pb-3">Latest Notes & Articles</h2>
+        {% for post in site.posts limit:5 %}
+        <div class="my-3">
+          <h4><a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }} - {{ post.title }}</a></h4>
+        </div>
+        {% endfor %}
+        </div>
+    </div>
+</section>
+
 
 {% include product-schema.html %}
 <script type="application/ld+json">

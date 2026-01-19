@@ -56,7 +56,7 @@ image: /assets/img/cacao-therapy.png
     <div class="inside-container">
         <div class="related-articles py-5">
         <h3>Related articles</h3>
-        {% for post in site.categories.psychotherapy limit:3 %}
+        {% for post in site.categories.cacao-therapy limit:5 %}
         <div class="my-3">
           <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
         </div>
