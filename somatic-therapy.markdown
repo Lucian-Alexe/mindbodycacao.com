@@ -66,7 +66,6 @@ description: "Transform your mind and body with holistic therapy. As a certified
             </div>
         </div>
         </div>
-    </div>
     <div class="inside-container">
         <div class="related-articles py-5">
         <h3>Related articles</h3>
@@ -77,4 +76,6 @@ description: "Transform your mind and body with holistic therapy. As a certified
         {% endfor %}
         </div>
     </div>
+    </div>
 </section>
+

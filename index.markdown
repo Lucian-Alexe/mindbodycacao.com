@@ -378,7 +378,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               </h2>
               <div id="PanelsFAQ-collapseTwo" class="accordion-collapse collapse">
                 <div class="accordion-body">
-                  I offer both in-person sessions (in Mexico City) and remote sessions, depending on your schedule.
+                  I offer both in-person sessions (in Mexico City - in Condesa, close proximity to Roma Norte, Roma Sur, Hipódromo, Cuauhtémoc) and remote sessions, depending on your schedule.
                 </div>
               </div>
             </div>
@@ -433,12 +433,9 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </div>
     </div>
   </div>
-</section>
-
-<section>
     <div class="inside-container">
         <div class="related-articles py-5 my-4">
-        <h2 class="text-center pb-3">Latest Notes & Articles</h2>
+        <h3 class="text-center pb-3">Latest Notes & Articles</h3>
         {% for post in site.posts limit:5 %}
         <div class="my-3">
           <h4><a href="{{ post.url }}">{{ post.date | date: "%B %d, %Y" }} - {{ post.title }}</a></h4>

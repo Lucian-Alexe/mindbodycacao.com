@@ -52,7 +52,6 @@ image: /assets/img/cacao-therapy.png
             </div>
         </div>
         </div>
-    </div>
     <div class="inside-container">
         <div class="related-articles py-5">
         <h3>Related articles</h3>
@@ -62,5 +61,6 @@ image: /assets/img/cacao-therapy.png
         </div>
         {% endfor %}
         </div>
+    </div>
     </div>
 </section>
