@@ -22,7 +22,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               <div class="col-md-12 col-lg-3"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City"></div>
               <div class="col-md-12  col-lg-9">
                 <h2 class="hero-h2 py-2"><strong>Meet your therapist</strong></h2>
-                <p>I'm a bilingual therapist with 10+ years of experience in the US and Mexico, specializing in individual, couples, and adolescent therapy. Certified in EMDR and BrainSpotting, I'm adapting my therapeutic methods based on what works for you - either through traditional therapy or somatic therapy. Online and in-person sessions available. Click to learn more about me and my method.</p>
+                <p>I'm a bilingual therapist with 10+ years of experience in the US and Mexico, specializing in individual, couples, and adolescent therapy. A level 1 practitioner in EMDR and BrainSpotting, I'm adapting my therapeutic methods based on what works for you - either through traditional therapy or somatic therapy. Online and in-person sessions available. Click to learn more about me and my method.</p>
                 <p><strong>Tania Chapper, Psychotherapist, M.A.</strong></p>
               </div>
           </div>
