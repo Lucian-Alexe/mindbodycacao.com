@@ -267,22 +267,6 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </a>
         </div> 
         <div class="col-md-6 my-3">
-          <a href="/couples-therapy" class="thin-box-link">
-          <div class="thin-box p-5">
-            <div class="icon-services text-center mb-3">
-              <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
-                <path fill-rule="evenodd" d="M10.354 6.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7 8.793l2.646-2.647a.5.5 0 0 1 .708 0"/>
-                <path d="m10.273 2.513-.921-.944.715-.698.622.637.89-.011a2.89 2.89 0 0 1 2.924 2.924l-.01.89.636.622a2.89 2.89 0 0 1 0 4.134l-.637.622.011.89a2.89 2.89 0 0 1-2.924 2.924l-.89-.01-.622.636a2.89 2.89 0 0 1-4.134 0l-.622-.637-.89.011a2.89 2.89 0 0 1-2.924-2.924l.01-.89-.636-.622a2.89 2.89 0 0 1 0-4.134l.637-.622-.011-.89a2.89 2.89 0 0 1 2.924-2.924l.89.01.622-.636a2.89 2.89 0 0 1 4.134 0l-.715.698a1.89 1.89 0 0 0-2.704 0l-.92.944-1.32-.016a1.89 1.89 0 0 0-1.911 1.912l.016 1.318-.944.921a1.89 1.89 0 0 0 0 2.704l.944.92-.016 1.32a1.89 1.89 0 0 0 1.912 1.911l1.318-.016.921.944a1.89 1.89 0 0 0 2.704 0l.92-.944 1.32.016a1.89 1.89 0 0 0 1.911-1.912l-.016-1.318.944-.921a1.89 1.89 0 0 0 0-2.704l-.944-.92.016-1.32a1.89 1.89 0 0 0-1.912-1.911z"/></svg>
-            </div>
-            <h3 class="text-center mb-3">Couples Therapy</h3>
-            <p class="text-center mb-3">Support for partners navigating communication difficulties, conflict cycles, emotional disconnection, intimacy challenges, or major life transitions.</p>
-            <p class="thin-box-meta text-center">Therapy focuses on compassion, understanding each partner’s nervous system, and building new relational patterns based on safety and authentic connection.</p>
-          </div>
-          </a>
-        </div>
-      </div>
-      <div class="row my-3 align-items-stretch">
-        <div class="col-md-6 my-3">
           <a href="/adolescents-therapy" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
@@ -295,7 +279,9 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
             <p class="thin-box-meta text-center">The integrative approach helps adolescents feel grounded in their bodies and express emotions they may not yet have language for.</p>
           </div>
           </a>
-        </div> 
+        </div>
+      </div>
+      <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
           <a href="/parents-therapy" class="thin-box-link">
           <div class="thin-box p-5">
@@ -310,8 +296,6 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </div>
           </a>
         </div>
-      </div>
-       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
           <a href="/english-therapy-mexico-city" class="thin-box-link">
           <div class="thin-box p-5">
@@ -326,6 +310,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           </div>
           </a>
         </div> 
+      </div>
+       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
           <a href="/mexican-expats-living-abroad" class="thin-box-link">
           <div class="thin-box p-5">
@@ -394,7 +380,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               </h2>
               <div id="PanelsFAQ-collapseFour" class="accordion-collapse collapse">
                 <div class="accordion-body">
-                  Yes, therapies can be combined. Each treatment plan is tailored to meet your specific needs.
+                  Yes, therapies can be combined. I offer an integrative approach, and I will suggest to my patients differnt therapies that we can use (traditional talk therapy, EMDR, Brainspotting, somatic therapy). Each treatment plan is tailored to meet your specific needs.
                 </div>
               </div>
             </div>
