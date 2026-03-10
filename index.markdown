@@ -12,8 +12,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
     <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
       <div class="text-center my-5">
-      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation">Book your free consultation <i class="bi bi-arrow-right-circle"></i></a>
-      <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp">
+      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation"  rel="nofollow">Book your free consultation <i class="bi bi-arrow-right-circle"></i></a>
+      <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp"  rel="nofollow">
       <i class="bi bi-whatsapp"></i> or chat with me on WhatsApp
       </a>
       <a href="/about" class="hero-bio-link">
@@ -30,7 +30,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       </a>
       <div class="hero-ratings my-4">
           <div class="row justify-content-between align-items-center">
-          <p>Find me on: <a href="https://maps.app.goo.gl/JnB2wYg4fovwcjLw5" target="_blank"><i class="bi bi-google"></i> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i> (Patients Reviews)</a> | <a href="https://www.doctoralia.com.mx/tania-chapper/psicologo/cuauhtemoc2" target="_blank">Doctoralia</a>
+          <p>Find me on: <a href="https://maps.app.goo.gl/JnB2wYg4fovwcjLw5" target="_blank"  rel="nofollow"><i class="bi bi-google"></i> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i> (Patients Reviews)</a> | <a href="https://www.doctoralia.com.mx/tania-chapper/psicologo/cuauhtemoc2" target="_blank" rel="nofollow">Doctoralia</a>  | <a href="https://complicated.life/find-a-therapist/mexico-city/psychologist-counsellor-tania-chapper" target="_blank"  rel="nofollow">It's Complicated</a>
           </p> 
           </div>
         </div>
