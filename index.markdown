@@ -12,7 +12,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
     <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true. Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing.</p>
       <div class="text-center my-5">
-      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation"  rel="nofollow">Book your free consultation <i class="bi bi-arrow-right-circle"></i></a>
+      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation"  rel="nofollow">Book a free online consultation <i class="bi bi-arrow-right-circle"></i></a>
       <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp"  rel="nofollow">
       <i class="bi bi-whatsapp"></i> or chat with me on WhatsApp
       </a>
@@ -120,15 +120,15 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       <div class="blue-box">
       <div class="services-image"><img src="/assets/img/body-movement-therapy-yoga.svg" class="img-fluid" alt="Icon for Body Movement Therapy"></div>
         <h2 class="text-center">The Body</h2>
-        <h3 class="text-center blue-box-h3">Somatic Therapy (yoga, dance, movement)</h3>
-        <p class="text-center mt-5">Because the body holds emotions, memory, and stress, healing must involve more than the mind. I focus on connecting the two through <strong>movement therapy</strong>, <strong>yoga</strong>, <strong>dance therapy</strong>, and <strong>embodiment practices</strong>. By engaging the body in mindful physical practices, we can unlock deep healing and emotional release. These therapies not only improve mental health but also promote physical well-being, helping you cultivate a balanced, resilient life. </p>
-        <p class="text-center">Somatic therapy may be effectively combined with psychotherapy as an alternative or complementary method of treatment. My qualifications as a <strong>certified yoga instructor</strong>, along with my training in contemporary dance, ensure that you receive support grounded in both experience and professionalism.</p>
+        <h3 class="text-center blue-box-h3">Somatic Therapy (integrated in session)</h3>
+        <p class="text-center mt-5">Because the body holds emotions, memory, and stress, healing must involve more than the mind. I focus on connecting the two through <strong>yoga therapy</strong>, and <strong>somatic practices</strong>. By engaging the body in mindful physical practices, we can unlock deep healing and emotional release. These therapies not only improve mental health but also promote physical well-being, helping you cultivate a balanced, resilient life. </p>
+        <p class="text-center">Somatic therapy is effectively combined with psychotherapy as a complementary method of treatment. My qualifications as a <strong>certified yoga instructor</strong> ensure that you receive support grounded in both experience and professionalism.</p>
         <div class="tags text-center mt-5">
-          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Movement therapy</span> <span class="blue-box-tag">Yoga therapy</span> <span class="blue-box-tag">Dance therapy</span> 
+          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Yoga therapy</span> <span class="blue-box-tag">Somatic therapy</span> 
         </div>
         <!--Slider start-->
         <div class="blue-box-slider my-5">
-          <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
+          <div class="swiffy-slider slider-item-show1 slider-item-reveal slider-nav-chevron slider-nav-outside">
               <ul class="slider-container">
                   <li>
                       <div class="card border-0">
@@ -139,7 +139,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               <div class="d-flex">
                                   <h3 class="">Yoga Therapy</h3>
                               </div>
-                              <p class="card-text">A 60–90 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It can stand alone or be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.</p>
+                              <p class="card-text">A 60 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It will be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
@@ -151,23 +151,9 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                           </div>
                           <div class="card-body p-0 p-4">
                               <div class="d-flexraditional Psy">
-                                  <h3 class="">Movement Therapy</h3>
+                                  <h3 class="">Somatic Therapy</h3>
                               </div>
-                              <p class="card-text">A 60–90 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It can be paired with talk therapy or trauma work for deeper integration.</p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
-                          </div>
-                      </div>
-                  </li>
-                  <li>
-                      <div class="card border-0">
-                          <div class="ratio ratio-16x9">
-                              <img src="../assets/img/dance.jpg" class="card-img-top" loading="lazy" alt="Image shows a dance movement session therapy">
-                          </div>
-                          <div class="card-body p-0 p-4">
-                              <div class="d-flex">
-                                  <h3 class="">Dance Therapy</h3>
-                              </div>
-                              <p class="card-text">A 60-minute session using expressive movement and rhythm to explore feelings, reduce stress, and shift energy that’s hard to access through words alone. No dance experience needed, just curiosity and a willingness to move.</p>
+                              <p class="card-text">A 60 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It will be paired with talk therapy or trauma work for deeper integration.</p>
                               <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
                           </div>
                       </div>
