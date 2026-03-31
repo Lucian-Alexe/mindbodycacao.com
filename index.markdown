@@ -22,7 +22,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               <div class="col-md-12 col-lg-3"><img src="/assets/img/tania-chapper-therapist.png" alt="Therapist in Mexico City"></div>
               <div class="col-md-12  col-lg-9">
                 <h2 class="hero-h2 py-2"><strong>Meet your therapist</strong></h2>
-                <p>I'm a bilingual therapist with 10+ years of experience in the US and Mexico, specializing in individual, couples, and adolescent therapy. A level 1 practitioner in EMDR and BrainSpotting, I'm adapting my therapeutic methods based on what works for you - either through traditional therapy or somatic therapy. Online and in-person sessions available. Click to learn more about me and my method.</p>
+                <p>I'm a bilingual therapist with 10+ years of experience in the US and Mexico, specializing in adult and adolescent therapy. A level 1 practitioner in EMDR and BrainSpotting, I'm adapting my therapeutic methods based on what works for you - either through traditional therapy or somatic therapy. Online and in-person sessions available. Click to learn more about me and my method.</p>
                 <p><strong>Tania Chapper, Psychotherapist, M.A.</strong></p>
               </div>
           </div>
@@ -56,7 +56,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
         <h2 class="text-center">The Mind</h2>
         <h3 class="text-center blue-box-h3">Psychotherapy & Mental Health Services</h3>
         <p class="text-center mt-5">At the heart of my holistic approach to mental health is psychotherapy, where I draw from a variety of therapeutic methods to support you on your healing journey. Whether it's through <strong>traditional psychotherapy</strong>, <strong>EMDR</strong>, or <strong>Brainspotting</strong>, I'm here to guide individuals through challenges like trauma, PTSD, anxiety, adjustment to a new country, depression, and relationship struggles. </p>
-        <p class="text-center">I welcome both individuals and couples, including young adults, expats living in Mexico or abroad, offering a safe and compassionate space for everyone. You can choose from remote or in-person consultations, whichever feels most comfortable for you.</p>
+        <p class="text-center">I welcome individuals, including adolescents, expats living in Mexico or abroad, offering a safe and compassionate space for everyone. You can choose from remote or in-person consultations, whichever feels most comfortable for you.</p>
         <div class="tags text-center mt-5">
           <span class="blue-box-tag">Traditional Psychotherapy</span> <span class="blue-box-tag">EMDR</span> <span class="blue-box-tag">BrainSpotting</span> <span class="blue-box-tag">Person-centered therapy</span> <span class="blue-box-tag">Trauma-informed therapy</span> <span class="blue-box-tag">Cross-cultural adjustment therapy </span> <span class="blue-box-tag">Grief & Loss support</span>
         </div>
