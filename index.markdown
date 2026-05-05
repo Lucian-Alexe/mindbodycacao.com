@@ -11,7 +11,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <div class="inside-container">
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
     <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true.</p>
-    <p>Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing, deductable with insurance. <strong>Currently accepting new patients</strong>.</p>
+    <p class="text-center mt-4">Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing, deductable with insurance. <strong>Currently accepting new patients</strong>.</p>
       <div class="text-center my-5">
       <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation"  rel="nofollow">Book a free consultation <i class="bi bi-arrow-right-circle"></i></a>
       <!-- <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp"  rel="nofollow"> 
