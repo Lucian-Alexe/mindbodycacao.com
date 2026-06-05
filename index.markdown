@@ -13,7 +13,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true.</p>
     <p class="text-center mt-4">Available remote and in-person (Mexico City, CDMX - Condesa), in Spanish or English. Transparent pricing, deductable with insurance. <strong>Currently accepting new patients</strong>.</p>
       <div class="text-center my-5">
-      <a class="hero-button text-center" href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation"  rel="nofollow">Book a free consultation <i class="bi bi-arrow-right-circle"></i></a>
+      <a class="hero-button text-center" href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true" target="_blank" data-simple-event="book_consultation"  rel="nofollow">Book a consultation <i class="bi bi-arrow-right-circle"></i></a>
       <!-- <a href="https://wa.me/+525561342194?text=Hello%2C%20I%20am%20interested%20in%20therapy" target="_blank" class="whatsapp-link" data-simple-event="call_whatsapp"  rel="nofollow"> 
       <i class="bi bi-whatsapp"></i> or chat with me on WhatsApp
       </a>-->
@@ -75,8 +75,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Traditional Psychotherapy</h3>
                               </div>
                               <p class="card-text">A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It’s talk-based, flexible, and can be combined with other therapeutic approaches when helpful.</p>
-                               <p class="card-body-price">MX$1700 - MX$2000 <br>(virtual/in-person)</p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                               <p class="card-body-price">MX$1500 - MX$2000 <br>(virtual/in-person)</p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -90,8 +90,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">EMDR</h3>
                               </div>
                               <p class="card-text">Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”</p>
-                              <p class="card-body-price">MX$1700 - MX$2000 <br>(virtual/in-person)</p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                              <p class="card-body-price">MX$1500 - MX$2000 <br>(virtual/in-person)</p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -105,8 +105,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Brainspotting</h3>
                               </div>
                               <p class="card-text">A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual “spot” that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.</p>
-                              <p class="card-body-price">MX$1700 - MX$2000 <br>(virtual/in-person)</p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                              <p class="card-body-price">MX$1500 - MX$2000 <br>(virtual/in-person)</p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -143,8 +143,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Yoga Therapy</h3>
                               </div>
                               <p class="card-text">A 60 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It will be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.</p>
-                              <p class="card-body-price">MX$1700<br></p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                              <p class="card-body-price">MX$1500<br></p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -158,8 +158,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Somatic Therapy</h3>
                               </div>
                               <p class="card-text">A 60 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It will be paired with talk therapy or trauma work for deeper integration.</p>
-                              <p class="card-body-price">MX$1700<br></p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                              <p class="card-body-price">MX$1500<br></p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -193,8 +193,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Couple Cacao Ritual</h3>
                               </div>
                               <p class="card-text">A 60–120 minute cacao ceremony for two: ideal for healing, deepening connection, or preparing for the next chapter (like pre-marriage). Can be held at your place or another location you choose.</p>
-                              <p class="card-body-price">MX$1700 - MX$2000 <br></p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                              <p class="card-body-price">MX$1500 - MX$2000 <br></p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -208,8 +208,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Individual Cacao Ritual</h3>
                               </div>
                               <p class="card-text">A 60-minute private cacao session designed for personal reflection, emotional release, or spiritual reconnection — a gentle pause just for you.</p>
-                              <p class="card-body-price">MX$1700 - MX$2000 <br></p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                              <p class="card-body-price">MX$1500 - MX$2000 <br></p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -224,7 +224,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A 120-minute shared cacao ceremony for groups of 3 to 5 people — perfect for intimate celebrations, anniversaries, or special gatherings. Warm space, collective intention, and a shared journey.</p>
                               <p class="card-body-price">MX$3000 - MX$4000 <br></p>
-                              <p class="pt-2"><a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a free consultation</a></p>
+                              <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
                   </li>
@@ -380,25 +380,25 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
             </div>
             <div class="accordion-item">
               <h2 class="accordion-header">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseSix" aria-expanded="false" aria-controls="PanelsFAQ-collapseSix">
-                  Is the first consultation free?
-                </button>
-              </h2>
-              <div id="PanelsFAQ-collapseSix" class="accordion-collapse collapse">
-                <div class="accordion-body">
-                  Yes, the first 15-minute consultation is always free and it is conducted via phone. <a href="https://zcal.co/mindbodycacao/consultation"  target="_blank" alt="Book now"  data-simple-event="book_consultation">Just book a time slot</a>, and I’ll get in touch with you.
-                </div>
-              </div>
-            </div>
-            <div class="accordion-item">
-              <h2 class="accordion-header">
                 <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseCost" aria-expanded="false" aria-controls="PanelsFAQ-collapseCost">
                   What is the cost of a regular session?
                 </button>
               </h2>
               <div id="PanelsFAQ-collapseCost" class="accordion-collapse collapse">
                 <div class="accordion-body">
-                  Sessions start at $1700 MXN. Please keep in mind that this cost may be partially or fully reimbursable by your insurance provider, depending on your specific plan.
+                  Sessions start at $1500 MXN (85USD). Please keep in mind that this cost may be partially or fully reimbursable by your insurance provider, depending on your specific plan.
+                </div>
+              </div>
+            </div>
+            <div class="accordion-item">
+              <h2 class="accordion-header">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#PanelsFAQ-collapseSixbis" aria-expanded="false" aria-controls="PanelsFAQ-collapseSixbis">
+                  Do you offer discounted rates for those experiencing financial hardship?
+                </button>
+              </h2>
+              <div id="PanelsFAQ-collapseSixbis" class="accordion-collapse collapse">
+                <div class="accordion-body">
+                  Yes, I firmly believe that financial limitations shouldn't stand in the way of mental health support. I reserve a limited number of slots in my practice for clients navigating financial difficulties or reduced income, offered at a discounted rate. These slots are filled on a first-come, first-served basis. If you are in need of financial accommodation, <a href="mailto:tatischapp@gmail.com">you can reach out via email</a>, and we can discuss current availability and options together.
                 </div>
               </div>
             </div>
