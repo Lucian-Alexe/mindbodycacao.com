@@ -20,8 +20,7 @@ description: "Experienced psychotherapist blending EMDR, Brainspotting, body mov
     <img src="/assets/img/tania-chapper-therapy.png" alt="Photograph showing different types of therapies" class="img-fluid pt-2 pb-2">
     <p>My international experience also shapes the way I work. I practiced as a <strong>psychotherapist in the Chicago area</strong> for over three years, and many of the clients I supported there continue with me today. Straddling cultures is part of my story, and it has helped me understand what it feels like to relocate, adjust, rebuild a support network, and redefine the idea of home.</p>
     <p>Here in Mexico, I have also reconnected with ancestral traditions, including cacao. Cacao ceremonies have been used in Mesoamerican cultures for grounding, emotional opening, and connection. While not every client needs cacao work, it can be a supportive tool in moments when the heart needs a more ritualized and embodied way to soften and release.</p>
-    <p>If you’re interested in working together, I would love to meet you.</p>
-    <p><strong><a href="https://zcal.co/mindbodycacao/consultation" target="_blank" data-simple-event="book_consultation">Book your free consultation</a></strong> and let’s see if this is the right space for you.</p>   
+    <p>If you’re interested in working together, I would love to meet you.</p> 
     <div class="d-flex">
     <img src="/assets/img/reviews.png" class="img-fluid pt-5 pb-3 mx-auto"></div>
     </div>
