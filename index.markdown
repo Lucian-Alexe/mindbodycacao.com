@@ -75,7 +75,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Traditional Psychotherapy</h3>
                               </div>
                               <p class="card-text">A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It’s talk-based, flexible, and can be combined with other therapeutic approaches when helpful.</p>
-                               <p class="card-body-price">MX$1500 - MX$2000 <br>(virtual/in-person)</p>
+                               <p class="card-body-price">MX$1500</p>
                               <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
@@ -90,7 +90,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">EMDR</h3>
                               </div>
                               <p class="card-text">Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”</p>
-                              <p class="card-body-price">MX$1500 - MX$2000 <br>(virtual/in-person)</p>
+                              <p class="card-body-price">MX$1500</p>
                               <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
@@ -105,7 +105,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Brainspotting</h3>
                               </div>
                               <p class="card-text">A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual “spot” that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.</p>
-                              <p class="card-body-price">MX$1500 - MX$2000 <br>(virtual/in-person)</p>
+                              <p class="card-body-price">MX$1500</p>
                               <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
@@ -123,11 +123,12 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       <div class="blue-box">
       <div class="services-image"><img src="/assets/img/body-movement-therapy-yoga.svg" class="img-fluid" alt="Icon for Body Movement Therapy"></div>
         <h2 class="text-center">The Body</h2>
-        <h3 class="text-center blue-box-h3">Somatic Therapy (integrated in session)</h3>
+        <h3 class="text-center blue-box-h3">Somatic Therapy (integrated as part of a psychotherapy session)</h3>
         <p class="text-center mt-5">Because the body holds emotions, memory, and stress, healing must involve more than the mind. I focus on connecting the two through <strong>yoga therapy</strong>, and <strong>somatic practices</strong>. By engaging the body in mindful physical practices, we can unlock deep healing and emotional release. These therapies not only improve mental health but also promote physical well-being, helping you cultivate a balanced, resilient life. </p>
         <p class="text-center">Somatic therapy is effectively combined with psychotherapy as a complementary method of treatment. My qualifications as a <strong>certified yoga instructor</strong> ensure that you receive support grounded in both experience and professionalism.</p>
+        <p class="text-center">Please note that the somatic therapy will be integrated as part of a psychotherapy session.</p>
         <div class="tags text-center mt-5">
-          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Yoga therapy</span> <span class="blue-box-tag">Somatic therapy</span> 
+          <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Yoga therapy</span> <span class="blue-box-tag">BrainSpotting</span> <span class="blue-box-tag">Breathing Techniques</span> <span class="blue-box-tag">Body Scans</span>
         </div>
         <!--Slider start-->
         <div class="blue-box-slider my-5">
@@ -157,7 +158,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               <div class="d-flexraditional Psy">
                                   <h3 class="">Somatic Therapy</h3>
                               </div>
-                              <p class="card-text">A 60 minute guided movement session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It will be paired with talk therapy or trauma work for deeper integration.</p>
+                              <p class="card-text">A 60 minute integrated session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It will be paired with talk therapy or trauma work for deeper integration.</p>
                               <p class="card-body-price">MX$1500<br></p>
                               <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
@@ -193,7 +194,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Couple Cacao Ritual</h3>
                               </div>
                               <p class="card-text">A 60–120 minute cacao ceremony for two: ideal for healing, deepening connection, or preparing for the next chapter (like pre-marriage). Can be held at your place or another location you choose.</p>
-                              <p class="card-body-price">MX$1500 - MX$2000 <br></p>
+                              <p class="card-body-price">MX$1500</p>
                               <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
@@ -208,7 +209,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                                   <h3 class="">Individual Cacao Ritual</h3>
                               </div>
                               <p class="card-text">A 60-minute private cacao session designed for personal reflection, emotional release, or spiritual reconnection — a gentle pause just for you.</p>
-                              <p class="card-body-price">MX$1500 - MX$2000 <br></p>
+                              <p class="card-body-price">MX$1500</p>
                               <p class="pt-2"><a href="https://calendar.google.com/calendar/appointments/schedules/AcZssZ0_HbvbSP70Fm39F9njYW4HLfWNjFjP8_wi7JhkNj72MeOcrf1atYUScmlw9CrqQ5zCVsA0AN-N?gv=true"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
                           </div>
                       </div>
@@ -398,7 +399,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               </h2>
               <div id="PanelsFAQ-collapseSixbis" class="accordion-collapse collapse">
                 <div class="accordion-body">
-                  Yes, I firmly believe that financial limitations shouldn't stand in the way of mental health support. I reserve a limited number of slots in my practice for clients navigating financial difficulties or reduced income, offered at a discounted rate. These slots are filled on a first-come, first-served basis. If you are in need of financial accommodation, <a href="mailto:tatischapp@gmail.com">you can reach out via email</a>, and we can discuss current availability and options together.
+                  Yes, I firmly believe that financial limitations shouldn't stand in the way of mental health support. I reserve a limited number of slots in my practice for clients navigating financial difficulties or reduced income, offered at a discounted rate. These slots are filled on a first-come, first-served basis. If you are in need of financial accommodation, <a href="/contact">you can reach out via email</a>, and we can discuss current availability and options together.
                 </div>
               </div>
             </div>
