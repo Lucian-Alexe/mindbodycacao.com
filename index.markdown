@@ -13,7 +13,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
     <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true.</p>
     <p class="text-center mt-4">For the moment, available only remote, in Spanish or English. Transparent pricing, deductable with insurance.</p>
       <div class="text-center my-5">
-      <a class="hero-button text-center" href="https://zcal.co/i/sa98KC8Z" target="_blank" data-simple-event="book_consultation"  rel="nofollow">Book a consultation <i class="bi bi-arrow-right-circle"></i></a>
+      <a class="hero-button text-center" href="https://zcal.co/i/sa98KC8Z" target="_blank" data-simple-event="book_session"  rel="nofollow">Book a session <i class="bi bi-arrow-right-circle"></i></a>
       <a href="/contact" class="whatsapp-link" data-simple-event="call_whatsapp" > 
       <i class="bi bi-envelope"></i> or get in touch with me
       </a>
@@ -57,7 +57,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
         <h2 class="text-center">The Mind</h2>
         <h3 class="text-center blue-box-h3">Psychotherapy & Mental Health Services</h3>
         <p class="text-center mt-5">At the heart of my holistic approach to mental health is psychotherapy, where I draw from a variety of therapeutic methods to support you on your healing journey. Whether it's through <strong>traditional psychotherapy</strong>, <strong>EMDR</strong>, or <strong>Brainspotting</strong>, I'm here to guide individuals through challenges like trauma, PTSD, anxiety, adjustment to a new country, depression, and relationship struggles. </p>
-        <p class="text-center">I welcome individuals, including adolescents, expats living in Mexico or abroad, offering a safe and compassionate space for everyone. You can choose from remote or in-person consultations, whichever feels most comfortable for you.</p>
+        <p class="text-center">I welcome individuals, including adolescents, expats living in Mexico or abroad, offering a safe and compassionate space for everyone. You can choose from remote or in-person sessions, whichever feels most comfortable for you.</p>
         <div class="tags text-center mt-5">
           <span class="blue-box-tag">Traditional Psychotherapy</span> <span class="blue-box-tag">EMDR</span> <span class="blue-box-tag">BrainSpotting</span> <span class="blue-box-tag">Person-centered therapy</span> <span class="blue-box-tag">Trauma-informed therapy</span> <span class="blue-box-tag">Cross-cultural adjustment therapy </span> <span class="blue-box-tag">Grief & Loss support</span>
         </div>
@@ -76,7 +76,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A 60-minute conversation (in person or online) where we unpack emotions, thoughts, and patterns in a supportive, grounded way. It’s talk-based, flexible, and can be combined with other therapeutic approaches when helpful.</p>
                                <p class="card-body-price">MX$1500</p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
@@ -91,7 +91,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">Offered both in person and online, EMDR can be woven into regular therapy or done as a focused series of sessions. We use gentle bilateral stimulation (eye movements, tapping, or sound) to help your brain safely process memories, beliefs, or experiences that feel “stuck.”</p>
                               <p class="card-body-price">MX$1500</p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
@@ -106,7 +106,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A novel yet highly effective method available both in person and remotely. In these 60-minute sessions, we find a visual “spot” that helps your body access deeper emotional layers, and you simply focus on it while I guide you through what arises.</p>
                               <p class="card-body-price">MX$1500</p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
@@ -145,7 +145,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A 60 minute session (in person or online) that blends therapeutic conversation with gentle yoga postures, breathwork, and mindful movement. It will be combined with psychotherapy, EMDR, or other modalities to help you process through both mind and body.</p>
                               <p class="card-body-price">MX$1500<br></p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
@@ -160,7 +160,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A 60 minute integrated session where we use simple, intuitive physical expression to explore emotions, release tension, and reconnect with your body’s cues. It will be paired with talk therapy or trauma work for deeper integration.</p>
                               <p class="card-body-price">MX$1500<br></p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
@@ -195,7 +195,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A 60–120 minute cacao ceremony for two: ideal for healing, deepening connection, or preparing for the next chapter (like pre-marriage). Can be held at your place or another location you choose.</p>
                               <p class="card-body-price">MX$1500</p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
@@ -210,7 +210,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A 60-minute private cacao session designed for personal reflection, emotional release, or spiritual reconnection — a gentle pause just for you.</p>
                               <p class="card-body-price">MX$1500</p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
@@ -225,7 +225,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
                               </div>
                               <p class="card-text">A 120-minute shared cacao ceremony for groups of 3 to 5 people — perfect for intimate celebrations, anniversaries, or special gatherings. Warm space, collective intention, and a shared journey.</p>
                               <p class="card-body-price">MX$3000 - MX$4000 <br></p>
-                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_consultation">Book a consultation</a></p>
+                              <p class="pt-2"><a href="https://zcal.co/i/sa98KC8Z"  target="_blank" alt="Book now" class="card-book-button" data-simple-event="book_session">Book a session</a></p>
                           </div>
                       </div>
                   </li>
