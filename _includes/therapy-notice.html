@@ -1,0 +1,49 @@
+<div id="therapy-notice" class="therapy-notice">
+  <p>Please do note that for the moment, all the therapy sessions are online only.</p>
+</div>
+
+<style>
+  .therapy-notice {
+    width: 100%;
+    background-color: #fff3cd; /* Light yellow background */
+    color: #856404; /* Darker text */
+    text-align: center;
+    padding: 15px 0;
+    border-bottom: 1px solid #ffeeba;
+    position: fixed;
+    top: -60px; /* Hidden above the viewport */
+    transition: top 0.5s ease-in-out;
+    z-index: 1000;
+    margin-bottom:10px;
+    
+  }
+
+  /* Class to trigger the drop */
+  .therapy-notice.show {
+    top: 0;
+  }
+
+  .therapy-notice p {
+    margin:0;
+    font-size:16px;
+  }
+
+  /* This pushes the rest of the page down */
+  body {
+    transition: margin-top 0.5s ease-in-out;
+    margin-top: 0;
+  }
+</style>
+
+<script>
+  window.addEventListener('load', () => {
+    const notice = document.getElementById('therapy-notice');
+    const height = notice.offsetHeight;
+    
+    // Drop the box
+    notice.classList.add('show');
+    
+    // Push the content down
+    document.body.style.marginTop = height + 'px';
+  });
+</script>
