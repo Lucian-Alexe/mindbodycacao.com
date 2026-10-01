@@ -78,13 +78,13 @@ Therapy costs can vary, so it’s important to find a therapist you can afford. 
 
 I’m a therapist based in **Condesa** and **Roma**, offering therapy in both **English** and **Spanish**. I specialize in helping people with trauma, anxiety, depression, and emotional blockages.
 
-If you're interested in trying therapy with me, I offer a free 15-minute consultation to discuss your needs and see if we’re a good match. Don’t hesitate to get in touch with me. I’d love to help you explore whether therapy with me is right for you. [Book a free consultation with me](https://zcal.co/mindbodycacao/consultation).
+If you're interested in trying therapy with me, I offer a free 15-minute consultation to discuss your needs and see if we’re a good match. Don’t hesitate to get in touch with me. I’d love to help you explore whether therapy with me is right for you. [Book a free consultation with me](https://calendar.app.google/EfMBz7Kf5Y22KVur7).
 
 ## Conclusion
 
 Finding the right therapist can be tough, but if you take your time and use the right tools, you’ll find someone who can help you with your mental health. Start by looking at lists of therapists on **Doctoralia**, **Psychology Today**, and **Google Maps**. Read what others are saying about them, and ask for recommendations from people you trust. If you’re not sure about a therapist, take advantage of free consultations to see if they’re a good fit for you.
 
-Remember, therapy is a personal journey, and finding the right fit is key. I’m here to support you, if you'd like to chat or get more information, [don’t hesitate to reach out](https://zcal.co/mindbodycacao/consultation).
+Remember, therapy is a personal journey, and finding the right fit is key. I’m here to support you, if you'd like to chat or get more information, [don’t hesitate to reach out](https://calendar.app.google/EfMBz7Kf5Y22KVur7).
 
 
 
