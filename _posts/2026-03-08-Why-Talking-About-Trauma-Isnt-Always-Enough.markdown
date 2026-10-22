@@ -60,6 +60,6 @@ to rest.
 ---
 
 
-**Want to see what feels right for you?** Choosing a therapist is a big decision. I offer a [free 15-minute consultation so we can chat ](https://zcal.co/mindbodycacao/consultation), see if we click, and figure out which of these paths makes the most sense for where you are right now. 
+**Want to see what feels right for you?** Choosing a therapist is a big decision. I offer a [free 15-minute consultation so we can chat ](https://calendar.app.google/EfMBz7Kf5Y22KVur7), see if we click, and figure out which of these paths makes the most sense for where you are right now. 
 
 

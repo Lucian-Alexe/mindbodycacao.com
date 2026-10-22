@@ -63,7 +63,7 @@ You don't always have to pick just one. These can be combined with **Somatic (bo
 
 My office is in **Condesa**, which is an easy trip from **Roma**, **Polanco**, or **Juárez**. If you aren't in the neighborhood, or just don't want to deal with the traffic, I also work with people **online**.
 
-**Want to see what feels right for you?** Choosing a therapist is a big decision, and the "vibe" matters. I offer a [free 15-minute consultation so we can chat ](https://zcal.co/mindbodycacao/consultation), see if we click, and figure out which of these paths makes the most sense for where you are right now. 
+**Want to see what feels right for you?** Choosing a therapist is a big decision, and the "vibe" matters. I offer a [free 15-minute consultation so we can chat ](https://calendar.app.google/EfMBz7Kf5Y22KVur7), see if we click, and figure out which of these paths makes the most sense for where you are right now. 
 
 
 ![EMDR, BrainSpotting, and talk therapy comparasion table infographic](/assets/img/emdr-brainspotting-therapy-psychotherapy-infographic-mexico.png "EMDR, BrainSpotting, and talk therapy comparasion table infographic" )

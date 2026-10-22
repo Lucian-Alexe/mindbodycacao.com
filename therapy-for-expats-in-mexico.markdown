@@ -59,6 +59,7 @@ image: /assets/img/expats-in-mexico.jpg
                         </ul>
                     </div>
                             <!-- Combined Slider Start -->
+                            {% comment %}
                             <div class="blue-box-slider my-5">
                             <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
                                 <ul class="slider-container">
@@ -202,6 +203,7 @@ image: /assets/img/expats-in-mexico.jpg
                                 <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
                             </div>
                             </div>
+                            {% endcomment %}
                             <!-- Combined Slider Ends -->
             </div>
         </div>

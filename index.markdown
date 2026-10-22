@@ -10,8 +10,8 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
   <div class="container">
     <div class="inside-container">
     <h1 class="text-center mb-2 mb-md-5">Therapy That Moves You. <strong>Literally</strong></h1>
-    <p class="text-center mt-4">Healing isn’t  <strong>one-size-fits-all</strong>. I blend <a href="/psychotherapy-mental-health-services" class="hero-area-link">traditional psychotherapy</a>, <a href="/somatic-therapy-mexico-city/" class="hero-area-link">somatic therapy</a>, or <a class="hero-area-link" href="cacao-therapy-ceremony/">cacao-based therapy</a>, to help you release what’s stuck and reconnect with what feels true.</p>
-    <p class="text-center mt-4">For the moment, available only remote, in Spanish or English. Transparent pricing, deductable with insurance.</p>
+    <p class="text-center mt-4">Real transformation takes more than understanding your story in your mind, it invites the body into the healing journey. Through <strong>EMDR</strong>, <strong>Brainspotting</strong>, and <strong>integrative somatic approaches</strong>, we honor the connection between mind and body so you can process trauma and safely return to your true self.</p>
+    <p class="text-center mt-4">For the month of november, available only remote, in Spanish or English.</p>
       <div class="text-center my-5">
       <a class="hero-button text-center" href="https://calendar.app.google/EfMBz7Kf5Y22KVur7" target="_blank" data-simple-event="book_session"  rel="nofollow">Book a session <i class="bi bi-arrow-right-circle"></i></a>
       <a href="/contact" class="whatsapp-link" data-simple-event="call_whatsapp" > 
@@ -31,7 +31,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       </a>
       <div class="hero-ratings my-4">
           <div class="row justify-content-between align-items-center">
-          <p>Find me on: <a href="https://maps.app.goo.gl/JnB2wYg4fovwcjLw5" target="_blank"  rel="nofollow"><i class="bi bi-googlegoo"></i> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i> (Patients Reviews)</a> | <a href="https://www.doctoralia.com.mx/tania-chapper/psicologo/cuauhtemoc2" target="_blank" rel="nofollow">Doctoralia</a>  | <a href="https://complicated.life/find-a-therapist/mexico-city/psychologist-counsellor-tania-chapper" target="_blank"  rel="nofollow">It's Complicated</a>
+          <p>Find me on: <a href="https://maps.app.goo.gl/JnB2wYg4fovwcjLw5" target="_blank"  rel="nofollow"><i class="bi bi-googlegoo"></i> <i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i><i class="bi bi-star-fill"></i> Google Maps (patients reviews)</a> 
           </p> 
           </div>
         </div>
@@ -62,6 +62,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           <span class="blue-box-tag">Traditional Psychotherapy</span> <span class="blue-box-tag">EMDR</span> <span class="blue-box-tag">BrainSpotting</span> <span class="blue-box-tag">Person-centered therapy</span> <span class="blue-box-tag">Trauma-informed therapy</span> <span class="blue-box-tag">Cross-cultural adjustment therapy </span> <span class="blue-box-tag">Grief & Loss support</span>
         </div>
         <!--Slider start-->
+        <!--
         <div class="blue-box-slider my-5">
           <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
               <ul class="slider-container">
@@ -115,6 +116,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
           </div>
         </div>
+        -->
         <!--Slider ends-->
         <div class="text-center my-5"><a class="box-button text-center" href="/psychotherapy-mental-health-services">Find out more</a></div>
       </div>
@@ -131,6 +133,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
           <span class="blue-box-tag">Yoga</span> <span class="blue-box-tag">Yoga therapy</span> <span class="blue-box-tag">BrainSpotting</span> <span class="blue-box-tag">Breathing Techniques</span> <span class="blue-box-tag">Body Scans</span>
         </div>
         <!--Slider start-->
+        <!--
         <div class="blue-box-slider my-5">
           <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
               <ul class="slider-container">
@@ -169,6 +172,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
           </div>
         </div>
+        -->
         <!--Slider ends-->
         <div class="text-center my-5"><a class="box-button text-center" href="/body-therapy">Find out more</a></div>
       </div>
@@ -177,10 +181,11 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       <div class="blue-box">
       <div class="services-image"><img src="/assets/img/cacao-therapy-ceremony.svg" class="img-fluid" alt="Icon for cacao ritual"></div>
         <h2 class="text-center">Cacao</h2>
-        <h3 class="text-center blue-box-h3">Cacao Therapy</h3>
+        <h3 class="text-center blue-box-h3">Cacao Therapy (as part of your healing process)</h3>
         <p class="text-center mt-5"> In addition to traditional psychotherapy, the Cacao Therapy is an optional, complementary practice to enhance emotional release and self-reflection. Cacao, a sacred plant medicine, has been used for centuries in healing rituals to open the heart, facilitate deep emotional processing, and promote spiritual insight. Through cacao ceremonies, you will experience a powerful journey of self-discovery, where you can release emotional blockages, connect with your inner peace, and cultivate clarity.</p>
         <p class="text-center mt-5">Cacao rituals are especially effective for individuals navigating grief, emotional trauma, or spiritual awakening. The heart-opening qualities of cacao help you process difficult emotions, gain new insights, and enhance your connection to yourself and the world around you. If you're seeking a more spiritual, integrative approach to healing, cacao therapy may be the perfect addition to your journey. </p>
         <!--Slider start-->
+        <!--
         <div class="blue-box-slider my-5">
           <div class="swiffy-slider slider-item-show2 slider-item-reveal slider-nav-chevron slider-nav-outside">
               <ul class="slider-container">
@@ -234,6 +239,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
               <button type="button" class="slider-nav slider-nav-next" aria-label="Go left"></button>
           </div>
         </div>
+        -->
         <!--Slider ends-->
         <div class="text-center my-5"><a class="box-button text-center" href="cacao-therapy-ceremony/">Find out more</a></div>
       </div>
@@ -278,20 +284,6 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
       </div>
       <div class="row my-3 align-items-stretch">
         <div class="col-md-6 my-3">
-          <a href="/parents-therapy" class="thin-box-link">
-          <div class="thin-box p-5">
-            <div class="icon-services text-center mb-3">
-              <svg xmlns="http://www.w3.org/2000/svg" width="44" height="44" fill="#a9542d" class="bi bi-patch-check" viewBox="0 0 16 16">
-                <path fill-rule="evenodd" d="M10.354 6.146a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708 0l-1.5-1.5a.5.5 0 1 1 .708-.708L7 8.793l2.646-2.647a.5.5 0 0 1 .708 0"/>
-                <path d="m10.273 2.513-.921-.944.715-.698.622.637.89-.011a2.89 2.89 0 0 1 2.924 2.924l-.01.89.636.622a2.89 2.89 0 0 1 0 4.134l-.637.622.011.89a2.89 2.89 0 0 1-2.924 2.924l-.89-.01-.622.636a2.89 2.89 0 0 1-4.134 0l-.622-.637-.89.011a2.89 2.89 0 0 1-2.924-2.924l.01-.89-.636-.622a2.89 2.89 0 0 1 0-4.134l.637-.622-.011-.89a2.89 2.89 0 0 1 2.924-2.924l.89.01.622-.636a2.89 2.89 0 0 1 4.134 0l-.715.698a1.89 1.89 0 0 0-2.704 0l-.92.944-1.32-.016a1.89 1.89 0 0 0-1.911 1.912l.016 1.318-.944.921a1.89 1.89 0 0 0 0 2.704l.944.92-.016 1.32a1.89 1.89 0 0 0 1.912 1.911l1.318-.016.921.944a1.89 1.89 0 0 0 2.704 0l.92-.944 1.32.016a1.89 1.89 0 0 0 1.911-1.912l-.016-1.318.944-.921a1.89 1.89 0 0 0 0-2.704l-.944-.92.016-1.32a1.89 1.89 0 0 0-1.912-1.911z"/></svg>
-            </div>
-            <h3 class="text-center mb-3">Parents</h3>
-            <p class="text-center mb-3">Help for parents navigating stress, exhaustion, changing identity, and the emotional weight of caregiving.</p>
-            <p class="thin-box-meta text-center">Sessions can explore emotional regulation, family dynamics, boundary setting, and reconnecting with oneself while caring for others.</p>
-          </div>
-          </a>
-        </div>
-        <div class="col-md-6 my-3">
           <a href="/english-therapy-mexico-city" class="thin-box-link">
           <div class="thin-box p-5">
             <div class="icon-services text-center mb-3">
@@ -304,9 +296,7 @@ description: "Psychologist in Mexico City: Personalized Therapy including EMDR, 
             <p class="thin-box-meta text-center">Having lived as an expat in both Europe and the US myself, I’m able to understand my clients’ experiences without them needing to over-explain.</p>
           </div>
           </a>
-        </div> 
-      </div>
-       <div class="row my-3 align-items-stretch">
+        </div>
         <div class="col-md-6 my-3">
           <a href="/mexican-expats-living-abroad" class="thin-box-link">
           <div class="thin-box p-5">
