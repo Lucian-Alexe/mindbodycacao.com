@@ -390,6 +390,7 @@ tbody tr:not(:last-child) {
   transition: all 0.2s ease;
 }
 
+.contact-button {}
 
 
 .intro-text{
@@ -806,64 +807,7 @@ button{
   border:none;
 }
 
-.custom-contact-form {
-  padding: 1em 1.5em;
-  margin: 0 auto;
-  font-family: sans-serif;
-}
 
-.custom-contact-form .form-group {
-  margin-bottom: 20px;
-}
-
-.custom-contact-form label {
-  display: block;
-  margin-bottom: 8px;
-  font-size: 14px;
-  font-weight: 500;
-  color: #333;
-}
-
-.custom-contact-form input,
-.custom-contact-form textarea {
-  width: 100%;
-  padding: 12px;
-  border: 1px solid #ccc;
-  border-radius: 4px;
-  box-sizing: border-box; 
-  font-family: inherit;
-  transition: border-color 0.3s ease;
-}
-
-.custom-contact-form input:focus,
-.custom-contact-form textarea:focus {
-  outline: none;
-  border-color: #666; 
-}
-
-.custom-contact-form .submit-button {
-  background-color: #222;
-  color: #fff;
-  padding: 12px 24px;
-  border: none;
-  border-radius: 4px;
-  cursor: pointer;
-  font-size: 16px;
-  width: 100%;
-  transition: background-color 0.3s ease;
-}
-
-.custom-contact-form .submit-button:hover {
-  background-color: #444;
-}
-
-.custom-contact-form .privacy-disclaimer {
-  margin-top: 16px;
-  font-size: 12px;
-  color: #666;
-  line-height: 1.5;
-  text-align: center;
-}
 
 
 @media only screen and (max-width: 960px) {
